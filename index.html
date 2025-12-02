@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>IKEA Fiyat Sorgulama</title>
+    <script src="https://cdn.jsdelivr.net/npm/@ericblade/quagga2/dist/quagga.min.js"></script>
+    <style>
+        :root {
+            --ikea-blue: #0058a3;
+            --ikea-yellow: #ffdb00;
+            --success-green: linear-gradient(135deg, #2ecc71, #27ae60);
+            --fail-red: linear-gradient(135deg, #e74c3c, #c0392b);
+            --bg-light: #f4f4f4;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            margin: 0; padding: 0; background: var(--bg-light); color: #333;
+            overflow-x: hidden; 
+        }
+        
+        .screen {
+            display: none; min-height: 100vh; width: 100%;
+            flex-direction: column; align-items: center; justify-content: flex-start;
+            padding: 30px 20px; box-sizing: border-box; text-align: center;
+        }
+        .active { display: flex; }
+
+        #start-screen { background: white; padding-top: 80px; }
+        .logo-container { margin-bottom: 50px; }
+        .logo-main { font-size: 2.5rem; font-weight: 900; color: var(--ikea-blue); letter-spacing: -1px; }
+        .logo-sub { font-size: 1.1rem; color: #666; font-weight: 400; }
+        
+        .input-group { width: 100%; max-width: 350px; margin-bottom: 30px; }
+        input[type="number"], input[type="text"] {
+            width: 100%; padding: 18px; font-size: 1.1rem;
+            border: 3px solid #e0e0e0; border-radius: 16px;
+            text-align: center; outline: none; transition: border-color 0.2s; box-sizing: border-box;
+        }
+        input[type="number"]:focus, input[type="text"]:focus { border-color: var(--ikea-blue); }
+        
+        .btn {
+            border: none; padding: 18px; font-size: 1.1rem; border-radius: 16px;
+            cursor: pointer; width: 100%; max-width: 350px; margin: 10px 0;
+            display: flex; align-items: center; justify-content: center; gap: 12px;
+            font-weight: 700; letter-spacing: 0.5px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.08); transition: transform 0.1s;
+        }
+        .btn:active { transform: scale(0.97); }
+        .btn-blue { background: var(--ikea-blue); color: white; }
+        .btn-yellow { background: var(--ikea-yellow); color: var(--ikea-blue); }
+        .btn-outline { background: white; border: 3px solid #e0e0e0; color: #555; }
+        .btn-outline-white { background: transparent; border: 3px solid white; color: white; box-shadow: none;}
+        .divider { margin: 15px; opacity: 0.4; font-weight: 600; font-size: 0.9rem; }
+
+        #search-screen { padding-top: 20px; background: #f9f9f9; }
+        .search-header { width: 100%; max-width: 600px; position: sticky; top: 0; background: #f9f9f9; z-index: 10; padding-bottom: 10px; }
+        .search-bar { text-align: left; padding-left: 20px; margin-bottom: 10px; }
+        
+        #product-list { width: 100%; max-width: 600px; display: flex; flex-direction: column; gap: 15px; padding-bottom: 50px; }
+        
+        .card { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); text-align: left; }
+        .card-barcode { font-size: 0.85rem; color: #888; margin-bottom: 5px; font-family: monospace; }
+        .card-name { font-size: 1.2rem; font-weight: 800; color: #333; margin-bottom: 8px; }
+        .card-price-row { font-size: 1rem; color: #555; margin-bottom: 15px; }
+        .price-highlight { color: #d32f2f; font-weight: bold; }
+        .card-btn { 
+            padding: 10px 15px; background: #f0f0f0; color: #333; 
+            text-decoration: none; border-radius: 8px; font-size: 0.9rem; font-weight: 600; display: inline-block; 
+        }
+
+        .result-screen { color: white; padding-top: 50px; justify-content: center; }
+        .result-content-wrapper { display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; max-width: 500px; margin-bottom: 30px; }
+        .status-icon { font-size: 4rem; margin-bottom: 10px; }
+        .status-header { font-size: 1.5rem; font-weight: 800; margin-bottom: 30px; text-transform: uppercase; letter-spacing: 1px; }
+
+        .bg-green { background: var(--success-green); }
+        .bg-red { background: var(--fail-red); }
+        
+        .price-container { margin-bottom: 30px; }
+        .old-price { font-size: 1.4rem; opacity: 0.6; }
+        .new-price { font-size: 4rem; font-weight: 900; line-height: 1; }
+        
+        .discount-badge { background: white; color: #27ae60; padding: 12px 25px; border-radius: 30px; font-size: 1.2rem; font-weight: 800; box-shadow: 0 10px 20px rgba(0,0,0,0.15); }
+
+        #scanner-screen { background: black; justify-content: flex-start; padding-top: 0; position: relative; overflow: hidden; }
+        #interactive { width: 100%; height: 100%; position: absolute; top: 0; left: 0; }
+        #interactive video, #interactive canvas { 
+            width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; 
+        }
+        .drawingBuffer { position: absolute; top: 0; left: 0; z-index: 5; pointer-events: none;}
+
+        .scanner-ui-layer {
+            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            pointer-events: none; 
+            display: flex; flex-direction: column; align-items: center;
+            z-index: 10;
+        }
+
+        .close-scanner { 
+            position: absolute; top: 20px; right: 20px; 
+            z-index: 999999; 
+            background: rgba(255,255,255,0.8); color: #000;
+            padding: 10px; width: 40px; height: 40px;
+            display: flex; align-items: center; justify-content: center;
+            border-radius: 50%; cursor: pointer; font-weight: bold;
+            pointer-events: auto;
+        }
+
+        .controls-bar {
+            position: absolute; bottom: 50px; width: 100%;
+            display: flex; flex-direction: column; align-items: center; gap: 20px;
+            pointer-events: auto; z-index: 20;
+        }
+        
+        .zoom-slider-container { width: 60%; display: none; }
+        input[type=range] { width: 100%; accent-color: var(--ikea-yellow); }
+
+        .flash-btn {
+            background: rgba(255, 255, 255, 0.2); border: 2px solid white;
+            color: white; border-radius: 50%; width: 60px; height: 60px;
+            font-size: 1.5rem; display: none; 
+            align-items: center; justify-content: center; cursor: pointer;
+        }
+        .flash-active { background: var(--ikea-yellow); color: black; border-color: var(--ikea-yellow); }
+
+    </style>
+</head>
+<body>
+
+    <div id="start-screen" class="screen active">
+        <div class="logo-container">
+            <div class="logo-main">IKEA Ümraniye</div>
+            <div class="logo-sub">Aile Kart İndirimi Sorgulama</div>
+        </div>
+        
+        <div class="input-group">
+            <input 
+            type="number" 
+            id="manual-input" 
+            inputmode="numeric" 
+            pattern="[0-9]*" 
+            placeholder="Barkod Numarası">
+        </div>
+        
+        <button class="btn btn-blue" onclick="handleManualSearch()">Sorgula</button>
+
+        <div class="divider">VEYA</div>
+
+        <button class="btn btn-yellow" onclick="startScanner()">
+            <span class="btn-icon">📷</span> Barkod Tara
+        </button>
+
+        <button class="btn btn-outline" onclick="openSearchScreen()">
+            <span class="btn-icon">🔍</span> İsime Göre Ara
+        </button>
+    </div>
+
+    <div id="search-screen" class="screen">
+        <div class="search-header">
+            <div style="display:flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+                <h2 style="margin:0;">Ürün Ara</h2>
+                <button onclick="showScreen('start-screen')" style="background:none; border:none; font-size:1rem; color:var(--ikea-blue); cursor:pointer;">Geri Dön</button>
+            </div>
+            <input type="text" id="name-search-input" placeholder="Ürün adı yazın (örn: Billy)..." onkeyup="filterList()">
+        </div>
+
+        <div id="product-list">
+            </div>
+    </div>
+
+    <div id="scanner-screen" class="screen">
+        <div class="close-scanner" onclick="showScreen('start-screen')" ontouchstart="showScreen('start-screen')">X</div>
+        <div id="interactive" class="viewport"></div>
+        <div class="scanner-ui-layer">
+            <div class="controls-bar">
+                <div class="zoom-slider-container" id="zoom-box">
+                    <input type="range" id="zoom-range" min="1" max="5" step="0.1" value="1" oninput="handleZoom(this.value)">
+                </div>
+                <button class="flash-btn" id="flash-btn" onclick="toggleFlash()">⚡</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="result-screen-container" class="screen result-screen">
+        <div id="result-injection-point" class="result-content-wrapper"></div>
+        <div style="width:100%; max-width:350px;">
+            <button class="btn btn-outline-white" onclick="showScreen('start-screen')">Yeni Sorgu</button>
+            <button class="btn btn-white" id="ikea-link-btn" style="background: white; color: #333;">IKEA.com.tr'de Gör</button>
+        </div>
+    </div>
+
+    <script>
+        let database = [];
+
+        fetch('./aralik-liste.json')
+            .then(res => res.json())
+            .then(json => {
+                database = json;
+                console.log(`Loaded ${database.length} items`);
+                renderList(database); 
+            })
+            .catch(err => console.error("Data load failed", err));
+
+        let currentTrack = null;
+        let isFlashOn = false;
+
+        function showScreen(screenId) {
+            document.querySelectorAll('.screen').forEach(el => el.classList.remove('active'));
+            document.getElementById(screenId).classList.add('active');
+
+            if(screenId !== 'scanner-screen') {
+                stopScanner();
+            }
+        }
+
+        function stopScanner() {
+            try {
+                Quagga.stop();
+                document.getElementById('interactive').innerHTML = ""; 
+                currentTrack = null;
+            } catch(e) { console.log(e); }
+        }
+
+        function startScanner() {
+            showScreen('scanner-screen');
+            document.getElementById('flash-btn').style.display = 'none';
+            document.getElementById('zoom-box').style.display = 'none';
+            document.getElementById('flash-btn').classList.remove('flash-active');
+            isFlashOn = false;
+
+            Quagga.init({
+                inputStream : {
+                    name : "Live",
+                    type : "LiveStream",
+                    target: document.querySelector('#interactive'),
+                    constraints: {
+                        facingMode: "environment",
+                        width: { min: 1280, ideal: 1920 }, // High Res for low light detail
+                        height: { min: 720, ideal: 1080 },
+                        advanced: [
+                            { focusMode: "continuous" },
+                            { exposureMode: "continuous" }
+                        ]
+                    }
+                },
+                locator: { 
+                    patchSize: "large", // Helps seeing scanned code in low light
+                    halfSample: true 
+                },
+                numOfWorkers: 4,
+                decoder : {
+                    readers : ["ean_reader", "i2of5_reader", "code_128_reader"],
+                    multiple: false
+                },
+                locate: true
+            }, function(err) {
+                if (err) {
+                    alert("Kamera hatası (HTTPS gerekli)");
+                    showScreen('start-screen');
+                    return;
+                }
+                Quagga.start();
+                initCameraControls();
+            });
+
+            // Draw Green Lines
+            Quagga.onProcessed(function(result) {
+                var drawingCtx = Quagga.canvas.ctx.overlay,
+                    drawingCanvas = Quagga.canvas.dom.overlay;
+
+                if (result) {
+                    if (result.boxes) {
+                        drawingCtx.clearRect(0, 0, parseInt(drawingCanvas.getAttribute("width")), parseInt(drawingCanvas.getAttribute("height")));
+                        result.boxes.filter(function (box) {
+                            return box !== result.box;
+                        }).forEach(function (box) {
+                            Quagga.ImageDebug.drawPath(box, {x: 0, y: 1}, drawingCtx, {color: "green", lineWidth: 2});
+                        });
+                    }
+                    if (result.box) {
+                        Quagga.ImageDebug.drawPath(result.box, {x: 0, y: 1}, drawingCtx, {color: "#00F", lineWidth: 2});
+                    }
+                }
+            });
+
+            // SCAN LOGIC
+            Quagga.onDetected(function(result) {
+                var code = result.codeResult.code;
+                
+                // --- STRICT 14 CHAR FILTER ---
+                // Only accept if the read result is exactly 14 digits
+                // This prevents partial reads of ITF-14 codes
+                if(code.length === 14) {
+                    checkBarcode(code);
+                }
+            });
+        }
+
+        function initCameraControls() {
+            setTimeout(() => {
+                if(Quagga.CameraAccess && Quagga.CameraAccess.getActiveTrack()) {
+                    const track = Quagga.CameraAccess.getActiveTrack();
+                    currentTrack = track;
+                    const capabilities = track.getCapabilities();
+
+                    if(capabilities.torch) document.getElementById('flash-btn').style.display = 'flex';
+                    if(capabilities.zoom) {
+                        const zoomInput = document.getElementById('zoom-range');
+                        const zoomBox = document.getElementById('zoom-box');
+                        zoomBox.style.display = 'block';
+                        zoomInput.min = capabilities.zoom.min;
+                        zoomInput.max = capabilities.zoom.max;
+                        zoomInput.step = capabilities.zoom.step;
+                        zoomInput.value = capabilities.zoom.min;
+                    }
+                }
+            }, 500);
+        }
+
+        function toggleFlash() {
+            if(!currentTrack) return;
+            isFlashOn = !isFlashOn;
+            const btn = document.getElementById('flash-btn');
+            isFlashOn ? btn.classList.add('flash-active') : btn.classList.remove('flash-active');
+            currentTrack.applyConstraints({ advanced: [{torch: isFlashOn}] }).catch(e=>{});
+        }
+
+        function handleZoom(val) {
+            if(!currentTrack) return;
+            currentTrack.applyConstraints({ advanced: [{zoom: parseFloat(val)}] }).catch(e=>{});
+        }
+
+        function openSearchScreen() {
+            showScreen('search-screen');
+            document.getElementById('name-search-input').focus();
+        }
+
+        function renderList(items) {
+            const listContainer = document.getElementById('product-list');
+            listContainer.innerHTML = ""; 
+            if(items.length === 0) {
+                listContainer.innerHTML = "<p style='color:#999; margin-top:20px;'>Ürün bulunamadı.</p>";
+                return;
+            }
+            const displayItems = items.slice(0, 250);
+            displayItems.forEach(item => {
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.innerHTML = `
+                    <div class="card-barcode">${item.barcode}</div>
+                    <div class="card-name">${item.name}</div>
+                    <div class="card-price-row">
+                        <span style="text-decoration:line-through">${formatCurrency(item.old_price)} TL</span> 
+                        yerine 
+                        <span class="price-highlight">${formatCurrency(item.new_price)} TL</span>
+                    </div>
+                    <a href="https://www.ikea.com.tr/arama?k=${item.barcode}" target="_blank" class="card-btn">IKEA.com.tr'de Gör</a>
+                `;
+                listContainer.appendChild(card);
+            });
+        }
+
+        function filterList() {
+            const query = document.getElementById('name-search-input').value.toLowerCase();
+            const filtered = database.filter(item => 
+                item.name.toLowerCase().includes(query) || 
+                item.barcode.includes(query)
+            );
+            renderList(filtered);
+        }
+
+        function formatCurrency(amount) {
+            return amount.toLocaleString('tr-TR');
+        }
+
+        function checkBarcode(code) {
+            let scannedCode = code.toString().trim();
+            
+            // TAKE FIRST 8 CHARS EXACTLY (No zero stripping)
+            const searchCode = scannedCode.substring(0, 8);
+
+            const product = database.find(p => p.barcode.toString() === searchCode);
+            
+            if(product) {
+                stopScanner();
+                displayResult(product, searchCode);
+            } else {
+                stopScanner();
+                displayResult(null, searchCode);
+            }
+        }
+
+        function displayResult(product, code) {
+            showScreen('result-screen-container');
+
+            const container = document.getElementById('result-screen-container');
+            const content = document.getElementById('result-injection-point');
+            const linkBtn = document.getElementById('ikea-link-btn');
+            
+            const searchCode = product ? product.barcode : code;
+            linkBtn.onclick = () => { window.location.href = `https://www.ikea.com.tr/arama?k=${searchCode}`; };
+
+            if (product) {
+                container.className = "screen result-screen bg-green active";
+                const discount = product.old_price - product.new_price;
+                content.innerHTML = `
+                    <div class="status-icon">🎉</div>
+                    <div class="status-header">İNDİRİMLİ ÜRÜN</div>
+                    <h2 style="font-size:2rem; margin:0 0 10px 0;">${product.name}</h2>
+                    <div style="opacity:0.8; margin-bottom:30px;">${product.barcode}</div>
+                    <div class="price-container">
+                        <div class="old-price">${formatCurrency(product.old_price)} TL yerine</div>
+                        <div class="new-price">${formatCurrency(product.new_price)} <span style="font-size:2rem">TL</span></div>
+                    </div>
+                    <div class="discount-badge">Kazanç: ${formatCurrency(discount)} TL</div>
+                `;
+            } else {
+                container.className = "screen result-screen bg-red active";
+                let msg = "Bu barkod listede yok.";
+                
+                content.innerHTML = `
+                    <div class="status-icon">🚫</div>
+                    <div class="status-header">İNDİRİM YOK</div>
+                    <div style="margin:20px 0; font-size:2rem; font-weight:bold;">${code}</div>
+                    <p style="font-size:1.2rem;">${msg}</p>
+                `;
+            }
+        }
+
+        function handleManualSearch() {
+            const val = document.getElementById('manual-input').value;
+            if(val) checkBarcode(val);
+        }
+    </script>
+</body>
+</html>

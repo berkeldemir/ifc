@@ -1,0 +1,4274 @@
+[
+    {
+        "barcode": "ARTICLE NO",
+        "name": "DESCRIPTION",
+        "old_price": 0.0,
+        "new_price": 0.0
+    },
+    {
+        "barcode": "101056",
+        "name": "FARGGLAD N children's chair in/outdoor/multi",
+        "old_price": 999.0,
+        "new_price": 899.0
+    },
+    {
+        "barcode": "193937",
+        "name": "ODENSVIK wash-basin single 103x49x6",
+        "old_price": 5499.0,
+        "new_price": 4699.0
+    },
+    {
+        "barcode": "260451",
+        "name": "LILLEPLUTT soft toy cat grey/white",
+        "old_price": 299.0,
+        "new_price": 249.0
+    },
+    {
+        "barcode": "314581",
+        "name": "PLUTTIG foam matt f cot 60x120x5",
+        "old_price": 899.0,
+        "new_price": 629.0
+    },
+    {
+        "barcode": "321015",
+        "name": "KRUMMELUR foam matt f cot 60x120x8",
+        "old_price": 2199.0,
+        "new_price": 1599.0
+    },
+    {
+        "barcode": "336413",
+        "name": "PELLEPLUTT foam matt f cot 60x120x6",
+        "old_price": 1399.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "340759",
+        "name": "EKEDALEN bar masasý 120x80x105 beyaz",
+        "old_price": 11499.0,
+        "new_price": 9999.0
+    },
+    {
+        "barcode": "347614",
+        "name": "VISTHUS wrd 63x59x216 grey/white",
+        "old_price": 2499.0,
+        "new_price": 1999.0
+    },
+    {
+        "barcode": "357226",
+        "name": "DVALA N fitt sheet 90x200 white",
+        "old_price": 459.0,
+        "new_price": 329.0
+    },
+    {
+        "barcode": "368668",
+        "name": "IKEA 365+ gasket round/mixed colours 4-p",
+        "old_price": 49.99,
+        "new_price": 34.99
+    },
+    {
+        "barcode": "373274",
+        "name": "TISTEDAL matt pad 140x200 natural",
+        "old_price": 12599.0,
+        "new_price": 11099.0
+    },
+    {
+        "barcode": "373288",
+        "name": "TISTEDAL matt pad 90x200 natural",
+        "old_price": 9999.0,
+        "new_price": 8499.0
+    },
+    {
+        "barcode": "393371",
+        "name": "TORNVIKEN kitchen island 72x52 off-white/oak",
+        "old_price": 16499.0,
+        "new_price": 13999.0
+    },
+    {
+        "barcode": "406670",
+        "name": "PUDERVIVA N fitt sheet 90x200 natural",
+        "old_price": 469.0,
+        "new_price": 329.0
+    },
+    {
+        "barcode": "407269",
+        "name": "HAUGA chest/6 drw 138x84 white",
+        "old_price": 13999.0,
+        "new_price": 12999.0
+    },
+    {
+        "barcode": "407274",
+        "name": "HAUGA chest/3 drw 70x84 white",
+        "old_price": 6999.0,
+        "new_price": 5499.0
+    },
+    {
+        "barcode": "415047",
+        "name": "HAUGA TV bnch 138x36x54 white",
+        "old_price": 7799.0,
+        "new_price": 6799.0
+    },
+    {
+        "barcode": "431151",
+        "name": "FIXA N stick-on flr prot s20 grey",
+        "old_price": 19.99,
+        "new_price": 13.99
+    },
+    {
+        "barcode": "431844",
+        "name": "LIVNARA cutlery s24 black",
+        "old_price": 1799.0,
+        "new_price": 1299.0
+    },
+    {
+        "barcode": "435314",
+        "name": "LETTAN mirror 40x96",
+        "old_price": 1199.0,
+        "new_price": 899.0
+    },
+    {
+        "barcode": "458720",
+        "name": "FJALLBRACKA duvet extra warm 150x200",
+        "old_price": 4999.0,
+        "new_price": 3499.0
+    },
+    {
+        "barcode": "462656",
+        "name": "RASEGEL table lamp",
+        "old_price": 679.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "468210",
+        "name": "STRIMMIG deep plate 23 white 4-p",
+        "old_price": 999.0,
+        "new_price": 799.0
+    },
+    {
+        "barcode": "472702",
+        "name": "BERGIG book dsply w stor white",
+        "old_price": 4499.0,
+        "new_price": 3799.0
+    },
+    {
+        "barcode": "473075",
+        "name": "INGOLF chr brown-black/Nolhaga grey-beige",
+        "old_price": 3999.0,
+        "new_price": 3299.0
+    },
+    {
+        "barcode": "479732",
+        "name": "GODMIDDAG service s24 white B",
+        "old_price": 2299.0,
+        "new_price": 1699.0
+    },
+    {
+        "barcode": "484955",
+        "name": "REMSTA N ach Djuparp dark green-blue",
+        "old_price": 8299.0,
+        "new_price": 7499.0
+    },
+    {
+        "barcode": "495440",
+        "name": "KARLEKSGRAS krlnt 40x40 acýk mavi",
+        "old_price": 109.0,
+        "new_price": 79.99
+    },
+    {
+        "barcode": "495732",
+        "name": "RUNSKAR wsh-bsn mx tp/s brass-colour",
+        "old_price": 4299.0,
+        "new_price": 3299.0
+    },
+    {
+        "barcode": "496675",
+        "name": "FREDRIKSJON guest twl 30x50 dark blue",
+        "old_price": 74.99,
+        "new_price": 59.99
+    },
+    {
+        "barcode": "496703",
+        "name": "FREDRIKSJON guest twl 30x50 dark grey",
+        "old_price": 74.99,
+        "new_price": 59.99
+    },
+    {
+        "barcode": "496717",
+        "name": "FREDRIKSJON bath towel 70x140 white",
+        "old_price": 449.0,
+        "new_price": 329.0
+    },
+    {
+        "barcode": "496722",
+        "name": "FREDRIKSJON guest twl 30x50 white",
+        "old_price": 74.99,
+        "new_price": 59.99
+    },
+    {
+        "barcode": "498231",
+        "name": "VINDSTYRKA air quality sensor smart",
+        "old_price": 2299.0,
+        "new_price": 1799.0
+    },
+    {
+        "barcode": "501035",
+        "name": "STRIMMIG serving plate 29 white",
+        "old_price": 479.0,
+        "new_price": 379.0
+    },
+    {
+        "barcode": "507853",
+        "name": "LANESPELARE multi-func cushion/blanket",
+        "old_price": 1499.0,
+        "new_price": 1099.0
+    },
+    {
+        "barcode": "508763",
+        "name": "STAGGSTARR snd mndr 36x36x2.5 kýrmýzý",
+        "old_price": 299.0,
+        "new_price": 229.0
+    },
+    {
+        "barcode": "514518",
+        "name": "TRINDSNO floor lamp white metal/birch venee",
+        "old_price": 4699.0,
+        "new_price": 3699.0
+    },
+    {
+        "barcode": "514896",
+        "name": "HAVBERG fst Lejde grey/black",
+        "old_price": 8499.0,
+        "new_price": 7499.0
+    },
+    {
+        "barcode": "525404",
+        "name": "PANSARTAX stor box w lid 33x33x16.5 trans gr",
+        "old_price": 529.0,
+        "new_price": 379.0
+    },
+    {
+        "barcode": "527592",
+        "name": "LILLHULT N USB-A to lightning 1.5 m dark grey",
+        "old_price": 529.0,
+        "new_price": 399.0
+    },
+    {
+        "barcode": "532824",
+        "name": "TOFTLUND rug 55x85 red",
+        "old_price": 449.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "534074",
+        "name": "BLAVINGAD csh coral-shaped/turquoise",
+        "old_price": 649.0,
+        "new_price": 549.0
+    },
+    {
+        "barcode": "537628",
+        "name": "ANGSLILJA dc/2pwc 240x220/50x60 dark pink",
+        "old_price": 1499.0,
+        "new_price": 1199.0
+    },
+    {
+        "barcode": "541300",
+        "name": "TRADFRI N2 GU10 345lm smart/wrlss dim WW",
+        "old_price": 499.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "541461",
+        "name": "GLASMAL glass 34 cl mixed colours 4-p",
+        "old_price": 449.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "551737",
+        "name": "SLATTIKA jug 0.8 l white",
+        "old_price": 999.0,
+        "new_price": 829.0
+    },
+    {
+        "barcode": "552096",
+        "name": "PARLETERNELL chr pad 35 Grann black",
+        "old_price": 599.0,
+        "new_price": 569.0
+    },
+    {
+        "barcode": "554123",
+        "name": "GURLI krlnt klf 65x65 koyu sarý-yeþil",
+        "old_price": 259.0,
+        "new_price": 199.0
+    },
+    {
+        "barcode": "554175",
+        "name": "FAGNING prtbl tbl hook cork/metal",
+        "old_price": 169.0,
+        "new_price": 129.0
+    },
+    {
+        "barcode": "554811",
+        "name": "BRUNKRISSLA dc/pwc 150x200/50x60 green/m",
+        "old_price": 999.0,
+        "new_price": 829.0
+    },
+    {
+        "barcode": "555863",
+        "name": "KLASSRUM rug flatwoven 133x195 white/green",
+        "old_price": 2799.0,
+        "new_price": 1999.0
+    },
+    {
+        "barcode": "558079",
+        "name": "ULLVIDE fitt sheet 120x200 deep red",
+        "old_price": 579.0,
+        "new_price": 479.0
+    },
+    {
+        "barcode": "561251",
+        "name": "SODERSJON bath mat 50x80 deep red",
+        "old_price": 599.0,
+        "new_price": 429.0
+    },
+    {
+        "barcode": "561388",
+        "name": "SLOJSILJA dc/2pwc 240x220/50x60 lblue/wh/st",
+        "old_price": 1299.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "562665",
+        "name": "TESAMMANS pre-cut fabric 150x300 multicolou",
+        "old_price": 899.0,
+        "new_price": 629.0
+    },
+    {
+        "barcode": "563486",
+        "name": "MYRULL throw 130x170 red",
+        "old_price": 1599.0,
+        "new_price": 1199.0
+    },
+    {
+        "barcode": "565683",
+        "name": "GENESON chr metal/red",
+        "old_price": 1599.0,
+        "new_price": 1299.0
+    },
+    {
+        "barcode": "569006",
+        "name": "GOKVALLA 2024 tray table 65x33 copper-colou",
+        "old_price": 4499.0,
+        "new_price": 3299.0
+    },
+    {
+        "barcode": "572693",
+        "name": "FREDRIKSJON wshclth 30x30 grey-turquoise",
+        "old_price": 42.99,
+        "new_price": 29.99
+    },
+    {
+        "barcode": "575045",
+        "name": "MAVINN 2024 rug 60x90 striped multicolour",
+        "old_price": 699.0,
+        "new_price": 529.0
+    },
+    {
+        "barcode": "575719",
+        "name": "DVALA pwc 50x60 blue 2-p",
+        "old_price": 169.0,
+        "new_price": 129.0
+    },
+    {
+        "barcode": "576870",
+        "name": "DVALA fitt sheet 80x200  blue",
+        "old_price": 429.0,
+        "new_price": 329.0
+    },
+    {
+        "barcode": "578280",
+        "name": "SKOGSDUVA stor bag forest animal/multi",
+        "old_price": 399.0,
+        "new_price": 299.0
+    },
+    {
+        "barcode": "587760",
+        "name": "MAVINN basket s2 yellow jute",
+        "old_price": 699.0,
+        "new_price": 549.0
+    },
+    {
+        "barcode": "587835",
+        "name": "MAVINN bowl 16 brown/ceramic",
+        "old_price": 1399.0,
+        "new_price": 1099.0
+    },
+    {
+        "barcode": "589863",
+        "name": "SEKRETESS door mat 40x60 multicolour",
+        "old_price": 89.99,
+        "new_price": 69.99
+    },
+    {
+        "barcode": "593068",
+        "name": "SOLVINDEN N6 LED gnþ enrj ayd silindir/alm r",
+        "old_price": 429.0,
+        "new_price": 329.0
+    },
+    {
+        "barcode": "593148",
+        "name": "SOLVINDEN NNN 12'li LED ayd zncr dþ mkn/pill",
+        "old_price": 579.0,
+        "new_price": 429.0
+    },
+    {
+        "barcode": "593539",
+        "name": "SOLVINDEN LED gnþ enrj ms lmb 17 fener/pem",
+        "old_price": 999.0,
+        "new_price": 699.0
+    },
+    {
+        "barcode": "593624",
+        "name": "SLOJSTJART kðt pct 33x33 kýrmýzý/beyaz 30ad",
+        "old_price": 84.99,
+        "new_price": 59.99
+    },
+    {
+        "barcode": "593935",
+        "name": "SOLVINDEN 12'li LED ayd zncr guneþ enerjili/ya",
+        "old_price": 699.0,
+        "new_price": 529.0
+    },
+    {
+        "barcode": "593959",
+        "name": "SOLVINDEN ms lmb 20 pilli/beyaz",
+        "old_price": 349.0,
+        "new_price": 279.0
+    },
+    {
+        "barcode": "593997",
+        "name": "SOLVINDEN ms lmb 20 pilli mum þekilli",
+        "old_price": 399.0,
+        "new_price": 279.0
+    },
+    {
+        "barcode": "594256",
+        "name": "FOSSTA 2025 LED lghtng chain 12 pomegranat",
+        "old_price": 529.0,
+        "new_price": 449.0
+    },
+    {
+        "barcode": "597325",
+        "name": "PILLERSTARR paper napkin 33x33 multicolour",
+        "old_price": 84.99,
+        "new_price": 59.99
+    },
+    {
+        "barcode": "602379",
+        "name": "PILLERSTARR mslklu kvnz 4 lt þeffaf parlak sarý",
+        "old_price": 829.0,
+        "new_price": 699.0
+    },
+    {
+        "barcode": "4155700",
+        "name": "FIXA floor protectors/rivet 8-p",
+        "old_price": 59.99,
+        "new_price": 42.99
+    },
+    {
+        "barcode": "10152875",
+        "name": "IKEA 365+ IHÄRDIG spice mill 12.5 black",
+        "old_price": 299.0,
+        "new_price": 249.0
+    },
+    {
+        "barcode": "10255897",
+        "name": "SORTERA N waste srt bin/lid 37 l white",
+        "old_price": 649.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "10298236",
+        "name": "TALGJE matt pad 180x200 white",
+        "old_price": 4599.0,
+        "new_price": 3499.0
+    },
+    {
+        "barcode": "10298420",
+        "name": "FLISAT toy stor w whls",
+        "old_price": 2499.0,
+        "new_price": 1799.0
+    },
+    {
+        "barcode": "10313227",
+        "name": "SALVIKEN bth sheet 100x150 white",
+        "old_price": 629.0,
+        "new_price": 479.0
+    },
+    {
+        "barcode": "10321005",
+        "name": "DROMMANDE pckt sprung matt f cot 60x120x1",
+        "old_price": 7199.0,
+        "new_price": 5299.0
+    },
+    {
+        "barcode": "10341032",
+        "name": "EKEDALEN bench 105x36 white",
+        "old_price": 5299.0,
+        "new_price": 4299.0
+    },
+    {
+        "barcode": "10343856",
+        "name": "LILLABO N trntbl",
+        "old_price": 109.0,
+        "new_price": 99.0
+    },
+    {
+        "barcode": "10353614",
+        "name": "VAGSJON msfr hvlsu 30x50 koyu gri 2adet",
+        "old_price": 109.0,
+        "new_price": 79.99
+    },
+    {
+        "barcode": "10357216",
+        "name": "DVALA N fitt sheet 140x200 white",
+        "old_price": 529.0,
+        "new_price": 379.0
+    },
+    {
+        "barcode": "10357259",
+        "name": "DVALA N sheet 240x260 white",
+        "old_price": 729.0,
+        "new_price": 529.0
+    },
+    {
+        "barcode": "10381966",
+        "name": "LORBY USB chrgr w clmp black",
+        "old_price": 849.0,
+        "new_price": 629.0
+    },
+    {
+        "barcode": "10443974",
+        "name": "DRÖNA N box 33x38x33 dark grey",
+        "old_price": 299.0,
+        "new_price": 239.0
+    },
+    {
+        "barcode": "10458098",
+        "name": "STJARNBRACKA duvet warm 240x220",
+        "old_price": 2899.0,
+        "new_price": 2099.0
+    },
+    {
+        "barcode": "10458951",
+        "name": "IDANAS upholst bed frm 180x200 Gunnared pa",
+        "old_price": 28999.0,
+        "new_price": 23999.0
+    },
+    {
+        "barcode": "10459818",
+        "name": "TAGGVALLMO fitt sheet 90x200 white",
+        "old_price": 209.0,
+        "new_price": 149.0
+    },
+    {
+        "barcode": "10462123",
+        "name": "NILSOLLE bar stool 74 birch",
+        "old_price": 2899.0,
+        "new_price": 2299.0
+    },
+    {
+        "barcode": "10468219",
+        "name": "STRIMMIG mug 36 cl white",
+        "old_price": 229.0,
+        "new_price": 169.0
+    },
+    {
+        "barcode": "10470566",
+        "name": "GLADELIG plate 20x13 grey 2-p",
+        "old_price": 409.0,
+        "new_price": 299.0
+    },
+    {
+        "barcode": "10474404",
+        "name": "BLADDRARE hang stor w 7 comp 30x30x90 gre",
+        "old_price": 979.0,
+        "new_price": 799.0
+    },
+    {
+        "barcode": "10483074",
+        "name": "OMAR shlvng ut w 3 bskts 46x36x94 galvanise",
+        "old_price": 2999.0,
+        "new_price": 2499.0
+    },
+    {
+        "barcode": "10489311",
+        "name": "TONSTAD cff tbl 84x82 oak veneer",
+        "old_price": 8499.0,
+        "new_price": 7499.0
+    },
+    {
+        "barcode": "10493638",
+        "name": "FREDVANG ubed strg/bedside table 59x56 whit",
+        "old_price": 1399.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "10494609",
+        "name": "VAGSJON havlu 70x140 acýk bej",
+        "old_price": 319.0,
+        "new_price": 229.0
+    },
+    {
+        "barcode": "10494614",
+        "name": "VAGSJON msfr hvlsu 30x50 acýk bej 2adet",
+        "old_price": 109.0,
+        "new_price": 79.99
+    },
+    {
+        "barcode": "10496670",
+        "name": "FREDRIKSJON bath towel 70x140 dark blue",
+        "old_price": 449.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "10501271",
+        "name": "VAGHOJD LED flr lamp dimmable black",
+        "old_price": 10499.0,
+        "new_price": 9499.0
+    },
+    {
+        "barcode": "10504057",
+        "name": "UPPDATERA box 24x17 light pink",
+        "old_price": 169.0,
+        "new_price": 129.0
+    },
+    {
+        "barcode": "10511208",
+        "name": "SNORPA pedal bin 5 l stainless steel",
+        "old_price": 699.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "10511816",
+        "name": "FREDRIKSJON hand towel 40x70 light pink",
+        "old_price": 139.0,
+        "new_price": 99.0
+    },
+    {
+        "barcode": "10513194",
+        "name": "FREDRIKSJON wshclth 30x30 light pink",
+        "old_price": 42.99,
+        "new_price": 29.99
+    },
+    {
+        "barcode": "10513698",
+        "name": "SOLVINDEN NN LED solar lght 18outdr/half glo",
+        "old_price": 729.0,
+        "new_price": 529.0
+    },
+    {
+        "barcode": "10514179",
+        "name": "BUDDINGE rug flatwoven 170x240 handmd mu",
+        "old_price": 8999.0,
+        "new_price": 7999.0
+    },
+    {
+        "barcode": "10516102",
+        "name": "ENHET laundry bag/cst 80 l white",
+        "old_price": 3499.0,
+        "new_price": 2499.0
+    },
+    {
+        "barcode": "10517955",
+        "name": "FASTSATT sports lid black",
+        "old_price": 129.0,
+        "new_price": 99.0
+    },
+    {
+        "barcode": "10529557",
+        "name": "STRANDSKATA stor bag 20 braided/multicolou",
+        "old_price": 699.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "10531131",
+        "name": "VARMBLIXT LED pndnt lmp 46 white frosted gl",
+        "old_price": 11999.0,
+        "new_price": 9999.0
+    },
+    {
+        "barcode": "10540183",
+        "name": "DOFTDRACENA headband w nylon fastener wh",
+        "old_price": 84.99,
+        "new_price": 64.99
+    },
+    {
+        "barcode": "10543290",
+        "name": "VATTENVAN krlnt klf 50x50 cok renkli/cizgili",
+        "old_price": 479.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "10547387",
+        "name": "BROR work bench 110x55 grey-green/pine plyw",
+        "old_price": 7799.0,
+        "new_price": 6999.0
+    },
+    {
+        "barcode": "10548990",
+        "name": "SOTSTAVMAL tul prd, 2 knt 145x300 by/ekst. bn",
+        "old_price": 1099.0,
+        "new_price": 799.0
+    },
+    {
+        "barcode": "10549517",
+        "name": "VAGSJON wshclth 30x30 golden-yellow 4-p",
+        "old_price": 119.0,
+        "new_price": 99.0
+    },
+    {
+        "barcode": "10551765",
+        "name": "TESAMMANS rug flatwoven 155x220 multicolou",
+        "old_price": 7499.0,
+        "new_price": 6599.0
+    },
+    {
+        "barcode": "10552029",
+        "name": "MAVINN basket w lid s2 jute",
+        "old_price": 979.0,
+        "new_price": 699.0
+    },
+    {
+        "barcode": "10552755",
+        "name": "FREDRIKSJON guest twl 30x50 deep red",
+        "old_price": 74.99,
+        "new_price": 59.99
+    },
+    {
+        "barcode": "10552901",
+        "name": "MAVINN rug 60x90 multicolour",
+        "old_price": 549.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "10556174",
+        "name": "SUNNERSTA container 12x11 light yellow",
+        "old_price": 34.99,
+        "new_price": 29.99
+    },
+    {
+        "barcode": "10556254",
+        "name": "NICKFIBBLA pre-cut fabric 150x300 orange whi",
+        "old_price": 549.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "10562108",
+        "name": "BOLLOSUND drwr org hanging/beige",
+        "old_price": 169.0,
+        "new_price": 119.0
+    },
+    {
+        "barcode": "10564428",
+        "name": "ROSENROBINIA tul prd, 1 knt 300x300 a gr/eks",
+        "old_price": 1599.0,
+        "new_price": 1299.0
+    },
+    {
+        "barcode": "10564522",
+        "name": "TOFTLUND rug 55x85 blue",
+        "old_price": 449.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "10564895",
+        "name": "HONSNAT hldr f mbl phn natural",
+        "old_price": 42.99,
+        "new_price": 37.99
+    },
+    {
+        "barcode": "10569261",
+        "name": "IDROTTSPLATS rug flatwoven 80x150 blue",
+        "old_price": 1599.0,
+        "new_price": 1299.0
+    },
+    {
+        "barcode": "10569497",
+        "name": "BLASKATA dvt cvr+pwc 150x200/50x60 green",
+        "old_price": 949.0,
+        "new_price": 699.0
+    },
+    {
+        "barcode": "10569505",
+        "name": "BLASKATA dvt cvr+pwc 150x200/50x60 pu/blk",
+        "old_price": 949.0,
+        "new_price": 699.0
+    },
+    {
+        "barcode": "10571103",
+        "name": "NABBFISK tbl-clth hldr stainless steel 6-p",
+        "old_price": 279.0,
+        "new_price": 199.0
+    },
+    {
+        "barcode": "10571122",
+        "name": "NABBFISK napkin 30x30 light pink/white 4-p",
+        "old_price": 129.0,
+        "new_price": 99.0
+    },
+    {
+        "barcode": "10575040",
+        "name": "MAVINN 2024 basket 31",
+        "old_price": 1299.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "10576351",
+        "name": "TAGSPAR hlý, uzn tyl 170x240 byz/bej/el yapým",
+        "old_price": 13999.0,
+        "new_price": 12499.0
+    },
+    {
+        "barcode": "10576879",
+        "name": "DVALA fl sht 240x260 blue",
+        "old_price": 729.0,
+        "new_price": 529.0
+    },
+    {
+        "barcode": "10579854",
+        "name": "GROPLOJA paper napkin 16x32 patt yel/lbrn 10",
+        "old_price": 69.99,
+        "new_price": 59.99
+    },
+    {
+        "barcode": "10581866",
+        "name": "HOKRUBBA basket 34 sedge",
+        "old_price": 599.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "10583832",
+        "name": "KRUSTISTEL baking cup grey/white 65-p",
+        "old_price": 99.0,
+        "new_price": 69.99
+    },
+    {
+        "barcode": "10590856",
+        "name": "GRILLTIDER Barbeku arac seti 2 parca ps clk 25",
+        "old_price": 369.0,
+        "new_price": 269.0
+    },
+    {
+        "barcode": "10592563",
+        "name": "GOKVALLA 2025 srvs ks 26x26x9 altýn rengi L",
+        "old_price": 649.0,
+        "new_price": 479.0
+    },
+    {
+        "barcode": "10593204",
+        "name": "SOLVINDEN N 12'li LED ayd zncr dþ mkn/pilli tr",
+        "old_price": 699.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "10593497",
+        "name": "SOLVINDEN N LED gnþ enrj srkt lmb 43 dþ mk",
+        "old_price": 579.0,
+        "new_price": 429.0
+    },
+    {
+        "barcode": "10593968",
+        "name": "SOLVINDEN ms lmb 30 pilli/beyaz",
+        "old_price": 729.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "10594133",
+        "name": "FOSSTA 2025 krlnt klf 50x50 turuncu/nar",
+        "old_price": 169.0,
+        "new_price": 129.0
+    },
+    {
+        "barcode": "17228340",
+        "name": "FRAKTA carrier bag large 55x37x35 cm/71 l blu",
+        "old_price": 149.0,
+        "new_price": 109.0
+    },
+    {
+        "barcode": "20200456",
+        "name": "HEMNES bds table 46x35 white stain",
+        "old_price": 3299.0,
+        "new_price": 2499.0
+    },
+    {
+        "barcode": "20219658",
+        "name": "MULIG drying rck 3 lvls in/out white",
+        "old_price": 3799.0,
+        "new_price": 2799.0
+    },
+    {
+        "barcode": "20255137",
+        "name": "INGARED table lamp 30 grey",
+        "old_price": 499.0,
+        "new_price": 369.0
+    },
+    {
+        "barcode": "20262878",
+        "name": "EKERO ach Skiftebo dark blue",
+        "old_price": 8999.0,
+        "new_price": 7299.0
+    },
+    {
+        "barcode": "20273594",
+        "name": "FLISAT child desk adjustable",
+        "old_price": 5299.0,
+        "new_price": 3999.0
+    },
+    {
+        "barcode": "20298132",
+        "name": "TUSSOY matt pad 140x200 white",
+        "old_price": 7499.0,
+        "new_price": 5999.0
+    },
+    {
+        "barcode": "20301554",
+        "name": "KALLAX ack rf sstm 42x41 beyaz",
+        "old_price": 999.0,
+        "new_price": 849.0
+    },
+    {
+        "barcode": "20303925",
+        "name": "BOSJON kit mx tp brushed black metal",
+        "old_price": 6199.0,
+        "new_price": 4799.0
+    },
+    {
+        "barcode": "20341673",
+        "name": "GAMLESJON kit mx tp dual brushed black meta",
+        "old_price": 6799.0,
+        "new_price": 5299.0
+    },
+    {
+        "barcode": "20341692",
+        "name": "TOLLSJON kit mix tap/hndsp black polished m",
+        "old_price": 10999.0,
+        "new_price": 8999.0
+    },
+    {
+        "barcode": "20341871",
+        "name": "INSJON kit mix tap w p-out spt chrome-plated",
+        "old_price": 6699.0,
+        "new_price": 5299.0
+    },
+    {
+        "barcode": "20342535",
+        "name": "BROGRUND shwr set w thermo mix chrome-pl",
+        "old_price": 16999.0,
+        "new_price": 14999.0
+    },
+    {
+        "barcode": "20343912",
+        "name": "PUDDA basket 28x28x23",
+        "old_price": 529.0,
+        "new_price": 429.0
+    },
+    {
+        "barcode": "20350988",
+        "name": "VAGSJON bny hvls 100x150 beyaz",
+        "old_price": 499.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "20390890",
+        "name": "KAT cnk lvb 40 gri",
+        "old_price": 5399.0,
+        "new_price": 3999.0
+    },
+    {
+        "barcode": "20391658",
+        "name": "TORNVIKEN kitchen island 72x52 grey/oak",
+        "old_price": 14999.0,
+        "new_price": 13999.0
+    },
+    {
+        "barcode": "20452307",
+        "name": "MILSBO gls-dr cb 101x100 white",
+        "old_price": 16999.0,
+        "new_price": 14999.0
+    },
+    {
+        "barcode": "20458842",
+        "name": "IDANAS open ward 59x211 white",
+        "old_price": 8999.0,
+        "new_price": 7999.0
+    },
+    {
+        "barcode": "20463216",
+        "name": "LURVIG csh 46x74 pink",
+        "old_price": 699.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "20463645",
+        "name": "HILLEBORG room dark crtns 1 pr 145x300 brow",
+        "old_price": 1199.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "20474620",
+        "name": "TJOG stor box w lid 32x31x30 dark beige",
+        "old_price": 409.0,
+        "new_price": 309.0
+    },
+    {
+        "barcode": "20477671",
+        "name": "TJOG stor box w lid 32x31x30 dark grey",
+        "old_price": 409.0,
+        "new_price": 299.0
+    },
+    {
+        "barcode": "20483634",
+        "name": "FARGKLAR plate 26 glossy beige 4-p",
+        "old_price": 599.0,
+        "new_price": 429.0
+    },
+    {
+        "barcode": "20497928",
+        "name": "NORBERG wall-mount drop-lf tbl w stor 64x60",
+        "old_price": 4199.0,
+        "new_price": 3499.0
+    },
+    {
+        "barcode": "20498452",
+        "name": "HANNALILL 2 knt prd 145x300 mavi-gri",
+        "old_price": 1199.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "20506145",
+        "name": "KURA bed curtain market stall pattern",
+        "old_price": 1300.0,
+        "new_price": 1000.0
+    },
+    {
+        "barcode": "20511811",
+        "name": "FREDRIKSJON bth sheet 100x150 light pink",
+        "old_price": 699.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "20514895",
+        "name": "HAVBERG swiv ach Lejde red-brown",
+        "old_price": 17999.0,
+        "new_price": 15999.0
+    },
+    {
+        "barcode": "20519143",
+        "name": "DYTAG 2 knt prd 145x300 koyu gri/ekstrafor ba",
+        "old_price": 4299.0,
+        "new_price": 3299.0
+    },
+    {
+        "barcode": "20522027",
+        "name": "STYRSPEL oyn sndlys mor/siyah",
+        "old_price": 13499.0,
+        "new_price": 12499.0
+    },
+    {
+        "barcode": "20527058",
+        "name": "BOGENSE rug low pile 133x195 beige/white dot",
+        "old_price": 1199.0,
+        "new_price": 899.0
+    },
+    {
+        "barcode": "20528128",
+        "name": "RODRET wrlss dimmer pow swtch smart white",
+        "old_price": 399.0,
+        "new_price": 279.0
+    },
+    {
+        "barcode": "20532979",
+        "name": "NOVLING rug low pile 128x195 dblue/yel-brn",
+        "old_price": 2499.0,
+        "new_price": 2199.0
+    },
+    {
+        "barcode": "20540427",
+        "name": "MOLNART N2 E27 240lm 120mm tube-shpd wh",
+        "old_price": 849.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "20541988",
+        "name": "GOKVALLA plate 20 white",
+        "old_price": 169.0,
+        "new_price": 129.0
+    },
+    {
+        "barcode": "20546108",
+        "name": "OMSESIDIG plate 25 white 2-p",
+        "old_price": 679.0,
+        "new_price": 479.0
+    },
+    {
+        "barcode": "20548975",
+        "name": "SANDDADRA sheer crtn 1 pair 145x300 grey",
+        "old_price": 1099.0,
+        "new_price": 799.0
+    },
+    {
+        "barcode": "20552731",
+        "name": "DAJLIEN blanket 130x170 light green",
+        "old_price": 1199.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "20553288",
+        "name": "BJORKTRAST csh ach child white/black",
+        "old_price": 600.0,
+        "new_price": 500.0
+    },
+    {
+        "barcode": "20555094",
+        "name": "PRIMARSKOG plant stand 53",
+        "old_price": 1999.0,
+        "new_price": 1699.0
+    },
+    {
+        "barcode": "20555310",
+        "name": "STRECKFLY pre-cut fabric 150x300 black/white",
+        "old_price": 549.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "20556215",
+        "name": "EKET cabinet 35x25x35 light grey-blue",
+        "old_price": 799.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "20557427",
+        "name": "LUDDHAGTORN show curtain 180x200 turquoi",
+        "old_price": 309.0,
+        "new_price": 229.0
+    },
+    {
+        "barcode": "20558295",
+        "name": "BRUNKRISSLA dc/pwc 150x200/50x60 pink",
+        "old_price": 849.0,
+        "new_price": 649.0
+    },
+    {
+        "barcode": "20559704",
+        "name": "TRYSTAVMAL 2 knt prd 145x300 yþl/byz/ekst. b",
+        "old_price": 2199.0,
+        "new_price": 1699.0
+    },
+    {
+        "barcode": "20562122",
+        "name": "KLIPPNEJLIKA crtns 1pr 145x300 white/blue",
+        "old_price": 799.0,
+        "new_price": 749.0
+    },
+    {
+        "barcode": "20571225",
+        "name": "FJALLSTARR hand towel 40x70 white/grey",
+        "old_price": 129.0,
+        "new_price": 99.0
+    },
+    {
+        "barcode": "20572362",
+        "name": "BRUNTAG cushion cvr 50x50 light pink 2-p",
+        "old_price": 249.0,
+        "new_price": 239.0
+    },
+    {
+        "barcode": "20575054",
+        "name": "MAVINN 2024 basket 38x30x18 black/natural",
+        "old_price": 1099.0,
+        "new_price": 799.0
+    },
+    {
+        "barcode": "20576256",
+        "name": "VAGSJON bny hvls 100x150 parlak mavi",
+        "old_price": 499.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "20576949",
+        "name": "VARVIAL fitt sheet 120x200 blue",
+        "old_price": 579.0,
+        "new_price": 479.0
+    },
+    {
+        "barcode": "20586236",
+        "name": "KUGGIS kt 26x35x15 koyu gri-bej",
+        "old_price": 399.0,
+        "new_price": 299.0
+    },
+    {
+        "barcode": "20588688",
+        "name": "RISATORP basket 25x26x18 dark green",
+        "old_price": 629.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "20590870",
+        "name": "GRILLTIDER þiþ 31 paslanmaz celik 6adet 2502",
+        "old_price": 169.0,
+        "new_price": 129.0
+    },
+    {
+        "barcode": "20592341",
+        "name": "ALGANAS elbs asklðý 173x33 acýk mavi",
+        "old_price": 1399.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "20593166",
+        "name": "SOLVINDEN N2 12 'li LED aydnltm zncr dþ mkn",
+        "old_price": 1799.0,
+        "new_price": 1499.0
+    },
+    {
+        "barcode": "20593185",
+        "name": "SOLVINDEN N3 12 'li LED aydnltm zncr pill/dþ m",
+        "old_price": 799.0,
+        "new_price": 699.0
+    },
+    {
+        "barcode": "20593538",
+        "name": "SOLVINDEN N LED gnþ enrj ms lmb 25 ev/kýrm",
+        "old_price": 1799.0,
+        "new_price": 1399.0
+    },
+    {
+        "barcode": "20593977",
+        "name": "SOLVINDEN ms lmb 15 guneþ enerjili/mavi",
+        "old_price": 649.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "20599540",
+        "name": "UPPLAGA side plate 22 patterned/white",
+        "old_price": 179.0,
+        "new_price": 129.0
+    },
+    {
+        "barcode": "20602825",
+        "name": "ANGSFRAKEN chr pad 36 green/white",
+        "old_price": 219.0,
+        "new_price": 169.0
+    },
+    {
+        "barcode": "20608040",
+        "name": "HYLSNEJLIKA throw 130x170 orange/floral patt",
+        "old_price": 599.0,
+        "new_price": 529.0
+    },
+    {
+        "barcode": "30260807",
+        "name": "ARKELSTORP cff tbl 65x140x52 black",
+        "old_price": 10999.0,
+        "new_price": 8999.0
+    },
+    {
+        "barcode": "30298235",
+        "name": "TALGJE matt pad 160x200 white",
+        "old_price": 4099.0,
+        "new_price": 2999.0
+    },
+    {
+        "barcode": "30298240",
+        "name": "TALGJE matt pad 90x200 white",
+        "old_price": 1999.0,
+        "new_price": 1499.0
+    },
+    {
+        "barcode": "30303487",
+        "name": "MALSJO gls-dr cb 60x40x186 black stained",
+        "old_price": 21999.0,
+        "new_price": 18999.0
+    },
+    {
+        "barcode": "30342078",
+        "name": "REGISSOR N gls-dr cb 118x203 white",
+        "old_price": 29999.0,
+        "new_price": 27999.0
+    },
+    {
+        "barcode": "30353608",
+        "name": "VAGSJON havlu 70x140 koyu gri",
+        "old_price": 319.0,
+        "new_price": 229.0
+    },
+    {
+        "barcode": "30358941",
+        "name": "KAT cnk lvb 40 beyaz",
+        "old_price": 5399.0,
+        "new_price": 3999.0
+    },
+    {
+        "barcode": "30381593",
+        "name": "IVAR cabinet w doors 80x83 white",
+        "old_price": 5999.0,
+        "new_price": 4799.0
+    },
+    {
+        "barcode": "30389099",
+        "name": "AROD floor/read lamp anthracite",
+        "old_price": 4799.0,
+        "new_price": 3799.0
+    },
+    {
+        "barcode": "30404882",
+        "name": "RAMSELE pend lmp 43 flower/white",
+        "old_price": 3699.0,
+        "new_price": 2699.0
+    },
+    {
+        "barcode": "30430386",
+        "name": "UPPVIND table lamp 47 nickel-plated/white",
+        "old_price": 3999.0,
+        "new_price": 2999.0
+    },
+    {
+        "barcode": "30439018",
+        "name": "BACKIG bowl 14 black 4-p",
+        "old_price": 399.0,
+        "new_price": 309.0
+    },
+    {
+        "barcode": "30441380",
+        "name": "TRADFRI E14 250lm smart dim/ww chand DECO",
+        "old_price": 679.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "30450826",
+        "name": "TVALLEN wash-basin single 84x43x5",
+        "old_price": 3499.0,
+        "new_price": 2449.0
+    },
+    {
+        "barcode": "30457130",
+        "name": "STJARNBRACKA hff sck ttn yrgn 240x220",
+        "old_price": 2199.0,
+        "new_price": 1599.0
+    },
+    {
+        "barcode": "30458436",
+        "name": "SMASPORRE duvet extra warm 240x220",
+        "old_price": 2399.0,
+        "new_price": 1699.0
+    },
+    {
+        "barcode": "30459822",
+        "name": "TAGGVALLMO sheet 150x250 white",
+        "old_price": 209.0,
+        "new_price": 149.0
+    },
+    {
+        "barcode": "30462363",
+        "name": "VIPPVEDEL mattr protector 140x200",
+        "old_price": 699.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "30467214",
+        "name": "LANGDANS rller blind 120x195 grey",
+        "old_price": 1199.0,
+        "new_price": 899.0
+    },
+    {
+        "barcode": "30468218",
+        "name": "STRIMMIG side plate 21 white 4-p",
+        "old_price": 749.0,
+        "new_price": 549.0
+    },
+    {
+        "barcode": "30473719",
+        "name": "VALVARDAD cutlery stand 13 beige/galvanised",
+        "old_price": 299.0,
+        "new_price": 239.0
+    },
+    {
+        "barcode": "30477152",
+        "name": "FARGKLAR tbk 30x18 mat acýk turkuaz 4adet",
+        "old_price": 849.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "30479580",
+        "name": "MARIATHERES cck onlk 45x57 bej",
+        "old_price": 199.0,
+        "new_price": 139.0
+    },
+    {
+        "barcode": "30500893",
+        "name": "OLDERDALEN bds table 47x43 grey-green/pine",
+        "old_price": 5999.0,
+        "new_price": 4999.0
+    },
+    {
+        "barcode": "30511575",
+        "name": "PRAKTSALVIA krlnt klf 50x50 antrasit",
+        "old_price": 129.0,
+        "new_price": 99.0
+    },
+    {
+        "barcode": "30513664",
+        "name": "SOLVINDEN NNN LED solar pdt lmp30outdr/gl",
+        "old_price": 529.0,
+        "new_price": 399.0
+    },
+    {
+        "barcode": "30525049",
+        "name": "KLOCKBUSKE rug flatwoven 160x230 dark grey",
+        "old_price": 11999.0,
+        "new_price": 10999.0
+    },
+    {
+        "barcode": "30528892",
+        "name": "VONSBAK rug low pile 80x180 dark blue",
+        "old_price": 1299.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "30539744",
+        "name": "ENTUSIASM jumbo cup 50 cl patterned/white b",
+        "old_price": 829.0,
+        "new_price": 629.0
+    },
+    {
+        "barcode": "30540182",
+        "name": "AKERRATTIKA rsbl clansng pads w bag whi/gre",
+        "old_price": 249.0,
+        "new_price": 179.0
+    },
+    {
+        "barcode": "30548852",
+        "name": "DVARGDUNORT chr pad 42/35x42x4 grey/whit",
+        "old_price": 549.0,
+        "new_price": 399.0
+    },
+    {
+        "barcode": "30555809",
+        "name": "GLANSHAGTORN curtain 1 pc 300x300 orange",
+        "old_price": 1299.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "30557101",
+        "name": "LOVBACKEN side tbl 77x39 orange",
+        "old_price": 2999.0,
+        "new_price": 2799.0
+    },
+    {
+        "barcode": "30560981",
+        "name": "VAPPEBY prtbl bluetht spkr waterproof red",
+        "old_price": 749.0,
+        "new_price": 549.0
+    },
+    {
+        "barcode": "30564521",
+        "name": "TOFTLUND rug 55x85 green",
+        "old_price": 449.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "30564762",
+        "name": "FARGKLAR service s18 glossy beige B",
+        "old_price": 2199.0,
+        "new_price": 1599.0
+    },
+    {
+        "barcode": "30565097",
+        "name": "BERGPALM dc/pwc 150x200/50x60 yel/wh/strip",
+        "old_price": 979.0,
+        "new_price": 779.0
+    },
+    {
+        "barcode": "30568963",
+        "name": "TESAMMANS tray s2 green/lilac",
+        "old_price": 449.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "30569019",
+        "name": "GOKVALLA 2024 plate 27 orange",
+        "old_price": 299.0,
+        "new_price": 249.0
+    },
+    {
+        "barcode": "30570485",
+        "name": "BROGGAN dessert bowl 11 clear glass",
+        "old_price": 219.0,
+        "new_price": 179.0
+    },
+    {
+        "barcode": "30571220",
+        "name": "FJALLSTARR bth sheet 100x150 white/grey",
+        "old_price": 699.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "30576958",
+        "name": "VARVIAL fitt sheet 80x200 blue",
+        "old_price": 499.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "30579358",
+        "name": "BREDVECKLARE dc/2pwc 240x220/50x60 whi pi",
+        "old_price": 1599.0,
+        "new_price": 1299.0
+    },
+    {
+        "barcode": "30582803",
+        "name": "RUNDKRASSING cushion cvr 50x50 whi multi/d",
+        "old_price": 169.0,
+        "new_price": 129.0
+    },
+    {
+        "barcode": "30582841",
+        "name": "PRAKTFJARIL throw 130x170 blue",
+        "old_price": 799.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "30586542",
+        "name": "BRANNBOLL acc stand s3",
+        "old_price": 329.0,
+        "new_price": 249.0
+    },
+    {
+        "barcode": "30587037",
+        "name": "GANSJON bthr s3 bright yellow",
+        "old_price": 899.0,
+        "new_price": 679.0
+    },
+    {
+        "barcode": "30587099",
+        "name": "TJARLEK brdk 30 cl cok renkli 4adet",
+        "old_price": 1199.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "30591794",
+        "name": "GOKVALLA 2025 krlnt klf 50x50 mavi",
+        "old_price": 299.0,
+        "new_price": 229.0
+    },
+    {
+        "barcode": "30592562",
+        "name": "GOKVALLA 2025 srvs ks 13x13x6 mavi S",
+        "old_price": 399.0,
+        "new_price": 279.0
+    },
+    {
+        "barcode": "30593043",
+        "name": "SOLVINDEN N4 LED gnþ enrj srkt lmb 30 dþ m",
+        "old_price": 529.0,
+        "new_price": 399.0
+    },
+    {
+        "barcode": "30593156",
+        "name": "SOLVINDEN N 12'li LED ayd zncr pilli/bej",
+        "old_price": 579.0,
+        "new_price": 549.0
+    },
+    {
+        "barcode": "30593496",
+        "name": "SOLVINDEN N LED gnþ enrj srkt lmb 22 dþ mk/",
+        "old_price": 449.0,
+        "new_price": 379.0
+    },
+    {
+        "barcode": "30594132",
+        "name": "FOSSTA 2025 insulated flask 0.5 l pomegranate",
+        "old_price": 549.0,
+        "new_price": 399.0
+    },
+    {
+        "barcode": "30596428",
+        "name": "LANDSVAG hl, ks tyl 200x300 koyu gri",
+        "old_price": 3499.0,
+        "new_price": 2499.0
+    },
+    {
+        "barcode": "30608025",
+        "name": "PALPLJUNGMAL cushion cvr 50x50 orange REC",
+        "old_price": 199.0,
+        "new_price": 149.0
+    },
+    {
+        "barcode": "40014340",
+        "name": "IDEALISK flour sifter stainless steel",
+        "old_price": 159.0,
+        "new_price": 139.0
+    },
+    {
+        "barcode": "40171472",
+        "name": "LILLABO toy vehicle mixed colours 3-p",
+        "old_price": 579.0,
+        "new_price": 479.0
+    },
+    {
+        "barcode": "40180136",
+        "name": "DIMPA atk ayrm trbs 22x35x45 cm/35 lt by/k.g",
+        "old_price": 699.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "40203557",
+        "name": "MORUM rug flatw in/out 160x230 dark grey",
+        "old_price": 2199.0,
+        "new_price": 1799.0
+    },
+    {
+        "barcode": "40228812",
+        "name": "IDOLF chr white",
+        "old_price": 3499.0,
+        "new_price": 2499.0
+    },
+    {
+        "barcode": "40248443",
+        "name": "LATTSAM baby bath white/green",
+        "old_price": 499.0,
+        "new_price": 399.0
+    },
+    {
+        "barcode": "40248527",
+        "name": "INGOLF N stool brown-black",
+        "old_price": 1999.0,
+        "new_price": 1599.0
+    },
+    {
+        "barcode": "40298211",
+        "name": "TUSTNA matt pad 180x200 white",
+        "old_price": 12099.0,
+        "new_price": 10999.0
+    },
+    {
+        "barcode": "40309573",
+        "name": "STUK stor case 55x51x18 white/grey",
+        "old_price": 599.0,
+        "new_price": 479.0
+    },
+    {
+        "barcode": "40315178",
+        "name": "HILLESJON ins sink 1 1/2b 75x46 stainless steel",
+        "old_price": 5699.0,
+        "new_price": 3989.3
+    },
+    {
+        "barcode": "40334695",
+        "name": "GLIVARP N ext tbl 125/188x85 trans/chrome-pl",
+        "old_price": 16999.0,
+        "new_price": 14999.0
+    },
+    {
+        "barcode": "40342073",
+        "name": "REGISSOR cabinet 118x110 white",
+        "old_price": 15999.0,
+        "new_price": 14999.0
+    },
+    {
+        "barcode": "40342600",
+        "name": "VOXNAN shwr set w thermo mix chrome-plate",
+        "old_price": 19499.0,
+        "new_price": 15499.0
+    },
+    {
+        "barcode": "40353617",
+        "name": "VAGSJON el hvls 40x70 koyu gri",
+        "old_price": 89.99,
+        "new_price": 69.99
+    },
+    {
+        "barcode": "40353622",
+        "name": "VAGSJON el havls 30x30 koyu gri 4adet",
+        "old_price": 139.0,
+        "new_price": 99.0
+    },
+    {
+        "barcode": "40386590",
+        "name": "HEMMA N cord set 1.8 m black",
+        "old_price": 200.0,
+        "new_price": 180.0
+    },
+    {
+        "barcode": "40391879",
+        "name": "SAXBORGA jar w lid+tray s5 glass cork",
+        "old_price": 749.0,
+        "new_price": 549.0
+    },
+    {
+        "barcode": "40396886",
+        "name": "FRIDANS blck-out rllr blnd 100x195 blue",
+        "old_price": 1299.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "40408021",
+        "name": "MELHOLT rug flatwoven 133x195 handmade na",
+        "old_price": 3299.0,
+        "new_price": 2299.0
+    },
+    {
+        "barcode": "40410811",
+        "name": "LEIKNY cushion cvr 50x50 black/multicolour",
+        "old_price": 279.0,
+        "new_price": 239.0
+    },
+    {
+        "barcode": "40414102",
+        "name": "VISSVASS LED lgt chain 40 ind/batt-op silcol",
+        "old_price": 199.0,
+        "new_price": 159.0
+    },
+    {
+        "barcode": "40430772",
+        "name": "SVARTNORA pend lmp 38 black",
+        "old_price": 6499.0,
+        "new_price": 4799.0
+    },
+    {
+        "barcode": "40448036",
+        "name": "TENHULT step stool 43x40x50 bamboo",
+        "old_price": 1399.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "40457016",
+        "name": "SMASPORRE hff sck ttn yrgn 240x220",
+        "old_price": 1399.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "40457988",
+        "name": "SMASPORRE duvet warm 240x220",
+        "old_price": 1899.0,
+        "new_price": 1399.0
+    },
+    {
+        "barcode": "40458600",
+        "name": "FAVORISERA service s12 white",
+        "old_price": 1199.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "40468185",
+        "name": "STRIMMIG bowl 15 white 4-p",
+        "old_price": 749.0,
+        "new_price": 549.0
+    },
+    {
+        "barcode": "40469302",
+        "name": "TJENA N stor box w lid 32x35x32 white",
+        "old_price": 349.0,
+        "new_price": 249.0
+    },
+    {
+        "barcode": "40482450",
+        "name": "DVALA fitt sheet 160x200 light grey",
+        "old_price": 629.0,
+        "new_price": 479.0
+    },
+    {
+        "barcode": "40488961",
+        "name": "HAUGA bds table 40x36 grey",
+        "old_price": 2399.0,
+        "new_price": 1799.0
+    },
+    {
+        "barcode": "40496715",
+        "name": "FREDRIKSJON wshclth 30x30 dark grey",
+        "old_price": 42.99,
+        "new_price": 29.99
+    },
+    {
+        "barcode": "40497324",
+        "name": "HOPTRASSLA bottle carrier 6x15 black",
+        "old_price": 99.0,
+        "new_price": 69.99
+    },
+    {
+        "barcode": "40504254",
+        "name": "HAVERUD ask sstml ms siyah",
+        "old_price": 7699.0,
+        "new_price": 6799.0
+    },
+    {
+        "barcode": "40505649",
+        "name": "STRIMMIG side plate 21 stoneware grey 4-p",
+        "old_price": 749.0,
+        "new_price": 549.0
+    },
+    {
+        "barcode": "40507846",
+        "name": "LANESPELARE mug wi lid and straw black",
+        "old_price": 649.0,
+        "new_price": 549.0
+    },
+    {
+        "barcode": "40508228",
+        "name": "ULLERSLEV sheepskin 85 dark brown",
+        "old_price": 2599.0,
+        "new_price": 1999.0
+    },
+    {
+        "barcode": "40512701",
+        "name": "RONNINGE bar table 75x75 black",
+        "old_price": 11999.0,
+        "new_price": 10999.0
+    },
+    {
+        "barcode": "40522583",
+        "name": "VAPPEBY prtbl bluetht spkr waterproof/black",
+        "old_price": 749.0,
+        "new_price": 549.0
+    },
+    {
+        "barcode": "40526406",
+        "name": "BJORKASEN folding table 59x35 black",
+        "old_price": 2999.0,
+        "new_price": 2299.0
+    },
+    {
+        "barcode": "40534618",
+        "name": "ALFORSIT cable tie s15",
+        "old_price": 67.99,
+        "new_price": 49.99
+    },
+    {
+        "barcode": "40542864",
+        "name": "TJABBIG basket 47x43 natural/grey-green",
+        "old_price": 999.0,
+        "new_price": 799.0
+    },
+    {
+        "barcode": "40543019",
+        "name": "SVARTPOPPEL krlnt klf 65x65 mavi",
+        "old_price": 399.0,
+        "new_price": 299.0
+    },
+    {
+        "barcode": "40544330",
+        "name": "SOMMARLANKE LED pndnt lmp 10 blue/battery",
+        "old_price": 369.0,
+        "new_price": 299.0
+    },
+    {
+        "barcode": "40560240",
+        "name": "AKERVINDEFLY lumbar cushion 32x14.5x6.5 bei",
+        "old_price": 299.0,
+        "new_price": 229.0
+    },
+    {
+        "barcode": "40565025",
+        "name": "KUNGSCISSUS dc/2pwc 240x220/50x60 white/g",
+        "old_price": 2499.0,
+        "new_price": 1999.0
+    },
+    {
+        "barcode": "40566421",
+        "name": "REMTANG pend lmp 38 grey-green",
+        "old_price": 1999.0,
+        "new_price": 1599.0
+    },
+    {
+        "barcode": "40568509",
+        "name": "KUGGIS lid 13x18 black",
+        "old_price": 40.0,
+        "new_price": 30.0
+    },
+    {
+        "barcode": "40571106",
+        "name": "SOTRONN glass 30 cl cl gls patt/blk 4-p",
+        "old_price": 249.0,
+        "new_price": 239.0
+    },
+    {
+        "barcode": "40573308",
+        "name": "VIMPELFISK 24p cutlery setwhldrstnlsbamb/off",
+        "old_price": 1299.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "40580498",
+        "name": "FJALLSTARR bath towel 70x140 dark grey",
+        "old_price": 449.0,
+        "new_price": 329.0
+    },
+    {
+        "barcode": "40581092",
+        "name": "LILLHULT N2 USB-C to USB-C 1.5 m light grey",
+        "old_price": 229.0,
+        "new_price": 179.0
+    },
+    {
+        "barcode": "40590888",
+        "name": "GRILLTIDER srvs tps 40x30 paslanmaz celik 250",
+        "old_price": 579.0,
+        "new_price": 429.0
+    },
+    {
+        "barcode": "40592458",
+        "name": "GOKVALLA 2025 krlnt 45x34x8 mavi",
+        "old_price": 399.0,
+        "new_price": 299.0
+    },
+    {
+        "barcode": "40592726",
+        "name": "KORKEN kpk+kvnz 1 lt kahverengi-kýrmýzý",
+        "old_price": 189.0,
+        "new_price": 159.0
+    },
+    {
+        "barcode": "40593194",
+        "name": "SOLVINDEN N 24'lu LED ayd zncr dþ mkn gnþ e",
+        "old_price": 1299.0,
+        "new_price": 1099.0
+    },
+    {
+        "barcode": "40593684",
+        "name": "SOLVINDEN srkt lmb 48 mavi",
+        "old_price": 1699.0,
+        "new_price": 1299.0
+    },
+    {
+        "barcode": "40593716",
+        "name": "SOLVINDEN N2 gnþ enrjsyl clþn LED fnr 29 dþ",
+        "old_price": 1299.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "40594136",
+        "name": "FOSSTA 2025 tablecloth 140x200 red",
+        "old_price": 599.0,
+        "new_price": 429.0
+    },
+    {
+        "barcode": "40595697",
+        "name": "FRIDANS stor karartma prd 120x195 by sr/cizgil",
+        "old_price": 1499.0,
+        "new_price": 1099.0
+    },
+    {
+        "barcode": "40597333",
+        "name": "KALLSINNIG glass 38 cl plastic/blue",
+        "old_price": 79.99,
+        "new_price": 59.99
+    },
+    {
+        "barcode": "40599539",
+        "name": "UPPLAGA plate 28 patterned/white",
+        "old_price": 249.0,
+        "new_price": 189.0
+    },
+    {
+        "barcode": "40603659",
+        "name": "POANG csh ftst Knisa bright orange",
+        "old_price": 1399.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "50097995",
+        "name": "GLIMMA N unscntd tealt 100-p",
+        "old_price": 319.0,
+        "new_price": 279.0
+    },
+    {
+        "barcode": "50243317",
+        "name": "KNARRA basket 38x29x30 white",
+        "old_price": 999.0,
+        "new_price": 799.0
+    },
+    {
+        "barcode": "50298135",
+        "name": "TUSSOY matt pad 180x200 white",
+        "old_price": 9899.0,
+        "new_price": 8299.0
+    },
+    {
+        "barcode": "50298215",
+        "name": "TUSTNA matt pad 90x200 white",
+        "old_price": 6499.0,
+        "new_price": 4999.0
+    },
+    {
+        "barcode": "50338985",
+        "name": "KULLARNA toil seat black",
+        "old_price": 1399.0,
+        "new_price": 1199.0
+    },
+    {
+        "barcode": "50342591",
+        "name": "VOXNAN head/hndshwr kit w dvrtr chrome-pla",
+        "old_price": 10999.0,
+        "new_price": 8299.0
+    },
+    {
+        "barcode": "50353612",
+        "name": "VAGSJON bny hvls 100x150 koyu gri",
+        "old_price": 499.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "50355395",
+        "name": "TERTIAL work lamp dark grey",
+        "old_price": 1099.0,
+        "new_price": 899.0
+    },
+    {
+        "barcode": "50356564",
+        "name": "DVALA N fitt sheet 180x200 white",
+        "old_price": 679.0,
+        "new_price": 479.0
+    },
+    {
+        "barcode": "50370353",
+        "name": "MOSSARYD drop handle 49 mm black",
+        "old_price": 189.0,
+        "new_price": 139.0
+    },
+    {
+        "barcode": "50374558",
+        "name": "KOPENHAMN hlý, dz dkm 170x240 el yapýmý k",
+        "old_price": 8999.0,
+        "new_price": 7999.0
+    },
+    {
+        "barcode": "50381592",
+        "name": "IVAR cabinet w door 40x160 white",
+        "old_price": 5999.0,
+        "new_price": 4999.0
+    },
+    {
+        "barcode": "50391652",
+        "name": "HILDRUN tul prd 2 knt 145x300 pmb nktl/prd c",
+        "old_price": 749.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "50404895",
+        "name": "LAUTERS table lamp ash/white",
+        "old_price": 1699.0,
+        "new_price": 1299.0
+    },
+    {
+        "barcode": "50407097",
+        "name": "RAMSELE pend lmp 43 geometric/white",
+        "old_price": 3699.0,
+        "new_price": 2699.0
+    },
+    {
+        "barcode": "50416030",
+        "name": "RONNINGE ext tbl 155/210x90x75 birch",
+        "old_price": 16499.0,
+        "new_price": 14999.0
+    },
+    {
+        "barcode": "50429198",
+        "name": "NYMANE floor/read lamp anthracite",
+        "old_price": 4499.0,
+        "new_price": 3499.0
+    },
+    {
+        "barcode": "50450340",
+        "name": "SORBYN knob 25 mm 2-p",
+        "old_price": 259.0,
+        "new_price": 199.0
+    },
+    {
+        "barcode": "50463502",
+        "name": "SAKARIAS stool cvr Sporda dark grey",
+        "old_price": 349.0,
+        "new_price": 249.0
+    },
+    {
+        "barcode": "50468199",
+        "name": "STRIMMIG plate 27 white 4-p",
+        "old_price": 999.0,
+        "new_price": 699.0
+    },
+    {
+        "barcode": "50478023",
+        "name": "LILLASJON wll shlf w 5 hooks",
+        "old_price": 549.0,
+        "new_price": 399.0
+    },
+    {
+        "barcode": "50479715",
+        "name": "GODMIDDAG plate 26 white 4-p",
+        "old_price": 459.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "50480912",
+        "name": "LURPASSA box w lid s2 seagrass",
+        "old_price": 579.0,
+        "new_price": 479.0
+    },
+    {
+        "barcode": "50485660",
+        "name": "TARTBAK baking mould 250 ml diam-shpd/silic",
+        "old_price": 179.0,
+        "new_price": 149.0
+    },
+    {
+        "barcode": "50489998",
+        "name": "NORDMARKE wrlss charg stand bamboo",
+        "old_price": 779.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "50494612",
+        "name": "VAGSJON bny hvls 100x150 acýk bej",
+        "old_price": 499.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "50496673",
+        "name": "FREDRIKSJON bth sheet 100x150 dark blue",
+        "old_price": 699.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "50496705",
+        "name": "FREDRIKSJON bath towel 70x140 dark grey",
+        "old_price": 449.0,
+        "new_price": 329.0
+    },
+    {
+        "barcode": "50499879",
+        "name": "PILBLIXT pend lmp 33 wh/lght green gls/gld ef",
+        "old_price": 9999.0,
+        "new_price": 8999.0
+    },
+    {
+        "barcode": "50500670",
+        "name": "BERGPALM dc/pwc 150x200/50x60 light pink/st",
+        "old_price": 979.0,
+        "new_price": 779.0
+    },
+    {
+        "barcode": "50504772",
+        "name": "SVARTNORA pend lmp 38 stainless steel effect",
+        "old_price": 5899.0,
+        "new_price": 4899.0
+    },
+    {
+        "barcode": "50505677",
+        "name": "STRIMMIG bowl 15 stoneware blue 4-p",
+        "old_price": 629.0,
+        "new_price": 479.0
+    },
+    {
+        "barcode": "50507558",
+        "name": "GRUPPSPEL gaming chair Grann black",
+        "old_price": 15999.0,
+        "new_price": 14999.0
+    },
+    {
+        "barcode": "50512852",
+        "name": "RANEALVEN show curtain 180x200 white/turqu",
+        "old_price": 629.0,
+        "new_price": 469.0
+    },
+    {
+        "barcode": "50514894",
+        "name": "HAVBERG swiv ach Lejde grey/black",
+        "old_price": 14999.0,
+        "new_price": 13999.0
+    },
+    {
+        "barcode": "50515445",
+        "name": "GRASALA bar stool 62 grey",
+        "old_price": 2099.0,
+        "new_price": 1499.0
+    },
+    {
+        "barcode": "50516119",
+        "name": "DANDERYD drop-lf tbl 74/134x80 pine veneer/b",
+        "old_price": 13999.0,
+        "new_price": 11499.0
+    },
+    {
+        "barcode": "50516143",
+        "name": "DANDERYD bench 90x35 oak veneer/white",
+        "old_price": 4899.0,
+        "new_price": 3999.0
+    },
+    {
+        "barcode": "50517944",
+        "name": "VIRKLUND rug flatw in/out 160x230 beige/dark",
+        "old_price": 2199.0,
+        "new_price": 1599.0
+    },
+    {
+        "barcode": "50520357",
+        "name": "SKRUVBY TV shp 118x38x60 mavi-siyah",
+        "old_price": 4299.0,
+        "new_price": 3799.0
+    },
+    {
+        "barcode": "50527269",
+        "name": "FYRTIOFYRA pend lmp 38 white/black",
+        "old_price": 1299.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "50528688",
+        "name": "UPPFYLLD egg slicer s4 mixed colours",
+        "old_price": 49.99,
+        "new_price": 34.99
+    },
+    {
+        "barcode": "50529942",
+        "name": "SKOGSBO chr dark brown",
+        "old_price": 6299.0,
+        "new_price": 5799.0
+    },
+    {
+        "barcode": "50532992",
+        "name": "NOVLING rug low pile 200x300 dblue/yel-brn",
+        "old_price": 6499.0,
+        "new_price": 5799.0
+    },
+    {
+        "barcode": "50540015",
+        "name": "REMTANG table lamp 37 grey-green",
+        "old_price": 1499.0,
+        "new_price": 1099.0
+    },
+    {
+        "barcode": "50541958",
+        "name": "GOKVALLA khv fncn beyaz/mavi 6adet",
+        "old_price": 449.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "50541982",
+        "name": "GOKVALLA plate 27 white",
+        "old_price": 229.0,
+        "new_price": 169.0
+    },
+    {
+        "barcode": "50544103",
+        "name": "TUVANGSFLY sheer crtn 1 pair 145x300 whi em",
+        "old_price": 1499.0,
+        "new_price": 1399.0
+    },
+    {
+        "barcode": "50547050",
+        "name": "MANHULT chr black/Hakebo deep red",
+        "old_price": 4199.0,
+        "new_price": 3199.0
+    },
+    {
+        "barcode": "50547413",
+        "name": "TRADFRI N3 GU10 345 lu LED amp akll/kblsz rst",
+        "old_price": 599.0,
+        "new_price": 429.0
+    },
+    {
+        "barcode": "50556252",
+        "name": "SANDETERNELL pre-cut fabric 150x300 orange",
+        "old_price": 549.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "50558091",
+        "name": "ULLVIDE fitt sheet 80x200 deep red",
+        "old_price": 529.0,
+        "new_price": 379.0
+    },
+    {
+        "barcode": "50558109",
+        "name": "ULLVIDE fl sht 150x260 deep red",
+        "old_price": 579.0,
+        "new_price": 479.0
+    },
+    {
+        "barcode": "50560188",
+        "name": "MOLNART N3 E27 150lm 90mm tube-shpd cl gl",
+        "old_price": 999.0,
+        "new_price": 799.0
+    },
+    {
+        "barcode": "50560334",
+        "name": "SOMRIG kýsayol dðmsi beyaz akýllý",
+        "old_price": 449.0,
+        "new_price": 329.0
+    },
+    {
+        "barcode": "50562106",
+        "name": "BOLLOSUND drwr org s4 beige",
+        "old_price": 269.0,
+        "new_price": 199.0
+    },
+    {
+        "barcode": "50564290",
+        "name": "PRAKTVIAL bdsprd 260x250 blue RECY",
+        "old_price": 2599.0,
+        "new_price": 2199.0
+    },
+    {
+        "barcode": "50565510",
+        "name": "SAFFEROT duvet extra warm 150x200",
+        "old_price": 1199.0,
+        "new_price": 899.0
+    },
+    {
+        "barcode": "50567608",
+        "name": "PEPPRIG 2 in 1 shoe brsh w scraper green/yello",
+        "old_price": 69.99,
+        "new_price": 49.99
+    },
+    {
+        "barcode": "50568523",
+        "name": "KUGGIS lid 26x35 black",
+        "old_price": 140.0,
+        "new_price": 99.0
+    },
+    {
+        "barcode": "50569004",
+        "name": "GOKVALLA 2024 serving tray 35x2 copp-col rou",
+        "old_price": 729.0,
+        "new_price": 639.0
+    },
+    {
+        "barcode": "50569018",
+        "name": "GOKVALLA 2024 plate 20 orange",
+        "old_price": 169.0,
+        "new_price": 129.0
+    },
+    {
+        "barcode": "50570776",
+        "name": "BROGGAN paper napkin 33x33 white/yellow 30",
+        "old_price": 84.99,
+        "new_price": 59.99
+    },
+    {
+        "barcode": "50574963",
+        "name": "MAVINN 2024 pouch black",
+        "old_price": 329.0,
+        "new_price": 239.0
+    },
+    {
+        "barcode": "50576877",
+        "name": "DVALA fl sht 150x260 blue",
+        "old_price": 439.0,
+        "new_price": 329.0
+    },
+    {
+        "barcode": "50581398",
+        "name": "FROJDA paper napkin 33x33 white/grey 30-p",
+        "old_price": 84.99,
+        "new_price": 59.99
+    },
+    {
+        "barcode": "50582152",
+        "name": "FROJDA pend lmp 33 battery-operated white",
+        "old_price": 1199.0,
+        "new_price": 839.0
+    },
+    {
+        "barcode": "50582604",
+        "name": "RAKSTRACKA rug high pile 200x300 off-white/g",
+        "old_price": 9999.0,
+        "new_price": 8999.0
+    },
+    {
+        "barcode": "50586555",
+        "name": "STOCKHOLM 2025 cff tbl oak veneer dark brow",
+        "old_price": 7199.0,
+        "new_price": 5999.0
+    },
+    {
+        "barcode": "50586635",
+        "name": "STOCKHOLM 2025 shelv ut 120x40x188 oak ven",
+        "old_price": 25999.0,
+        "new_price": 22499.0
+    },
+    {
+        "barcode": "50593018",
+        "name": "SOLVINDEN NN LED gnþ enrj yr lmb dýþ meka",
+        "old_price": 999.0,
+        "new_price": 799.0
+    },
+    {
+        "barcode": "50593481",
+        "name": "SOLVINDEN N LED gnþ enrj ms lmb 15 dþ mkn",
+        "old_price": 549.0,
+        "new_price": 479.0
+    },
+    {
+        "barcode": "50593495",
+        "name": "SOLVINDEN N LED gnþ enrj srkt lmb 30 dþ mk",
+        "old_price": 529.0,
+        "new_price": 429.0
+    },
+    {
+        "barcode": "50597257",
+        "name": "LUFTFARTYG dz dkm halý, ic/dþ mkn 160x230 s",
+        "old_price": 2399.0,
+        "new_price": 1699.0
+    },
+    {
+        "barcode": "50597342",
+        "name": "PILLERSTARR cooling bag 38x22x26 patterned/",
+        "old_price": 799.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "50598520",
+        "name": "OGONLOCKSMAL bedlinen f cot s3 60x120 flow",
+        "old_price": 829.0,
+        "new_price": 699.0
+    },
+    {
+        "barcode": "50601023",
+        "name": "KLIBBKORSORT throw 120x160 multicolour",
+        "old_price": 219.0,
+        "new_price": 179.0
+    },
+    {
+        "barcode": "50604413",
+        "name": "BACKMARA bath mat 50x80 pale pink",
+        "old_price": 459.0,
+        "new_price": 359.0
+    },
+    {
+        "barcode": "60015131",
+        "name": "SVALKA snaps glass 4 cl clear glass 6-p",
+        "old_price": 409.0,
+        "new_price": 379.0
+    },
+    {
+        "barcode": "60241389",
+        "name": "UPPHETTA coffee/tea maker 1l glass/stainless",
+        "old_price": 649.0,
+        "new_price": 529.0
+    },
+    {
+        "barcode": "60242614",
+        "name": "LILLABO toy figure 5-p",
+        "old_price": 279.0,
+        "new_price": 199.0
+    },
+    {
+        "barcode": "60298130",
+        "name": "TUSSOY matt pad 120x200 white",
+        "old_price": 6299.0,
+        "new_price": 4999.0
+    },
+    {
+        "barcode": "60322856",
+        "name": "BERGHALLA handle 56 mm grey 2-p",
+        "old_price": 74.99,
+        "new_price": 54.99
+    },
+    {
+        "barcode": "60323436",
+        "name": "HEKTAR wrk lmp w wrlss charg dark grey",
+        "old_price": 5699.0,
+        "new_price": 4699.0
+    },
+    {
+        "barcode": "60327774",
+        "name": "MALSJO TV bench w sldng drs 160x48x59 bl st",
+        "old_price": 21999.0,
+        "new_price": 19999.0
+    },
+    {
+        "barcode": "60341015",
+        "name": "EKEDALEN snd beyaz/ORRSTA acýk gri",
+        "old_price": 3499.0,
+        "new_price": 2999.0
+    },
+    {
+        "barcode": "60342072",
+        "name": "REGISSOR N cabinet 118x110 brown",
+        "old_price": 15999.0,
+        "new_price": 15299.0
+    },
+    {
+        "barcode": "60368627",
+        "name": "IKEA 365+ gasket rectangular/mixed colours 4-",
+        "old_price": 69.99,
+        "new_price": 49.99
+    },
+    {
+        "barcode": "60377976",
+        "name": "DVALA N dc/pwc 150x200/50x60 white",
+        "old_price": 799.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "60382096",
+        "name": "TACKSAMHET paper napkin 33x33 patterned/m",
+        "old_price": 84.99,
+        "new_price": 59.99
+    },
+    {
+        "barcode": "60386527",
+        "name": "MELODI N pend lmp 28 white",
+        "old_price": 349.0,
+        "new_price": 309.0
+    },
+    {
+        "barcode": "60392316",
+        "name": "GO mirror cab w 2 drs 60x14x96 Kasjon white",
+        "old_price": 8699.0,
+        "new_price": 6999.0
+    },
+    {
+        "barcode": "60402810",
+        "name": "DJUNGELSKOG soft toy assorted designs",
+        "old_price": 129.0,
+        "new_price": 99.0
+    },
+    {
+        "barcode": "60406304",
+        "name": "IKEA 365+ chopping board 22x16 3-p",
+        "old_price": 279.0,
+        "new_price": 199.0
+    },
+    {
+        "barcode": "60416138",
+        "name": "LANEBERG ext tbl 130/190x80 white",
+        "old_price": 9999.0,
+        "new_price": 8999.0
+    },
+    {
+        "barcode": "60435269",
+        "name": "LETTAN mirror 100x96",
+        "old_price": 2199.0,
+        "new_price": 1699.0
+    },
+    {
+        "barcode": "60447347",
+        "name": "ALSTERN bath mat 50x80 dark grey",
+        "old_price": 249.0,
+        "new_price": 199.0
+    },
+    {
+        "barcode": "60458538",
+        "name": "FJALLBRACKA duvet warm 240x220",
+        "old_price": 6099.0,
+        "new_price": 4499.0
+    },
+    {
+        "barcode": "60466072",
+        "name": "BASTSJON show curtain 180x200 white yellow/",
+        "old_price": 699.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "60482500",
+        "name": "VARVIAL fitt sheet 140x200 light grey",
+        "old_price": 679.0,
+        "new_price": 479.0
+    },
+    {
+        "barcode": "60492561",
+        "name": "VOLLERSLEV rug high pile 160x230 dark blue",
+        "old_price": 6299.0,
+        "new_price": 5499.0
+    },
+    {
+        "barcode": "60492617",
+        "name": "KNARDRUP rug low pile 160x230 pale pink",
+        "old_price": 4799.0,
+        "new_price": 3799.0
+    },
+    {
+        "barcode": "60494584",
+        "name": "EKERO ach Skiftebo dark grey",
+        "old_price": 8999.0,
+        "new_price": 7299.0
+    },
+    {
+        "barcode": "60496677",
+        "name": "FREDRIKSJON hand towel 40x70 dark blue",
+        "old_price": 139.0,
+        "new_price": 99.0
+    },
+    {
+        "barcode": "60496724",
+        "name": "FREDRIKSJON hand towel 40x70 white",
+        "old_price": 139.0,
+        "new_price": 99.0
+    },
+    {
+        "barcode": "60498563",
+        "name": "UPPRAMEN stor basket 35x17x25 grey-green",
+        "old_price": 1099.0,
+        "new_price": 799.0
+    },
+    {
+        "barcode": "60504352",
+        "name": "BADRING water leak sensor smart",
+        "old_price": 579.0,
+        "new_price": 429.0
+    },
+    {
+        "barcode": "60507586",
+        "name": "GRUPPSPEL gaming chair Gunnared beige",
+        "old_price": 13999.0,
+        "new_price": 12999.0
+    },
+    {
+        "barcode": "60507888",
+        "name": "VINDEBAK rug high pile 133x195 dark green",
+        "old_price": 2499.0,
+        "new_price": 1799.0
+    },
+    {
+        "barcode": "60511767",
+        "name": "SAKARIAS stool cvr Kvillsfors",
+        "old_price": 349.0,
+        "new_price": 249.0
+    },
+    {
+        "barcode": "60512818",
+        "name": "BIRTNA blck-out crtns 1 pr 145x300 lgryturq",
+        "old_price": 3199.0,
+        "new_price": 2299.0
+    },
+    {
+        "barcode": "60515124",
+        "name": "VAPPEBY bluetooth speaker peanut shape/pin",
+        "old_price": 3499.0,
+        "new_price": 2499.0
+    },
+    {
+        "barcode": "60515586",
+        "name": "OBONAS triple hook w suction cup 7x11 grey-g",
+        "old_price": 99.0,
+        "new_price": 69.99
+    },
+    {
+        "barcode": "60526085",
+        "name": "STYRSPEL gaming chair grey/red",
+        "old_price": 13499.0,
+        "new_price": 12499.0
+    },
+    {
+        "barcode": "60534066",
+        "name": "BLAVINGAD bath towel 70x140 turtle/dblue",
+        "old_price": 449.0,
+        "new_price": 399.0
+    },
+    {
+        "barcode": "60539304",
+        "name": "LUNNOM N2 E27 150lm 95 mm globe clear",
+        "old_price": 149.0,
+        "new_price": 129.0
+    },
+    {
+        "barcode": "60541496",
+        "name": "TRADFRI N2 E27 806 lm smart wrlss dim / glob",
+        "old_price": 599.0,
+        "new_price": 429.0
+    },
+    {
+        "barcode": "60544174",
+        "name": "SKAREFLY sheer crtn 1 pair 145x300 beige",
+        "old_price": 1099.0,
+        "new_price": 899.0
+    },
+    {
+        "barcode": "60545499",
+        "name": "TRADFRI N3 E14 470lm dim ws/chand op WS",
+        "old_price": 549.0,
+        "new_price": 399.0
+    },
+    {
+        "barcode": "60549299",
+        "name": "SOMMARFLOX tbl-clth hldr stainless steel 6-p",
+        "old_price": 279.0,
+        "new_price": 199.0
+    },
+    {
+        "barcode": "60550810",
+        "name": "SVARTVIDE place mat 35 cork/patterned",
+        "old_price": 159.0,
+        "new_price": 129.0
+    },
+    {
+        "barcode": "60552729",
+        "name": "DAJLIEN bath poncho w hood 110 light green",
+        "old_price": 1099.0,
+        "new_price": 899.0
+    },
+    {
+        "barcode": "60556459",
+        "name": "ANGSFIBBLA pre-cut fabric 150x300 multi dark",
+        "old_price": 549.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "60556633",
+        "name": "AKERNEJLIKA cushion cvr 50x50 blue embroide",
+        "old_price": 699.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "60558081",
+        "name": "ULLVIDE fitt sheet 140x200 deep red",
+        "old_price": 749.0,
+        "new_price": 549.0
+    },
+    {
+        "barcode": "60561031",
+        "name": "AFTONSPARV crtns w tieb, 1pr 120x300 space b",
+        "old_price": 1699.0,
+        "new_price": 1199.0
+    },
+    {
+        "barcode": "60562115",
+        "name": "BOLLOSUND toiletry bag beige",
+        "old_price": 189.0,
+        "new_price": 139.0
+    },
+    {
+        "barcode": "60562667",
+        "name": "TESAMMANS paper napkin 33x33 multicolour 3",
+        "old_price": 84.99,
+        "new_price": 59.99
+    },
+    {
+        "barcode": "60563488",
+        "name": "AFTONSPARV csh planet shaped/blue",
+        "old_price": 899.0,
+        "new_price": 649.0
+    },
+    {
+        "barcode": "60564275",
+        "name": "PRAKTVIAL bdsprd 260x250 off-white RECY",
+        "old_price": 2599.0,
+        "new_price": 2199.0
+    },
+    {
+        "barcode": "60564893",
+        "name": "HONSNAT cable managem bx 38x18x14 natura",
+        "old_price": 279.0,
+        "new_price": 239.0
+    },
+    {
+        "barcode": "60568551",
+        "name": "KUGGIS lid 18x26 black",
+        "old_price": 90.0,
+        "new_price": 70.0
+    },
+    {
+        "barcode": "60568966",
+        "name": "TESAMMANS cushion cvr 40x58 multicolour",
+        "old_price": 149.0,
+        "new_price": 109.0
+    },
+    {
+        "barcode": "60572261",
+        "name": "JATTEGRAN cushion cvr 50x50 green",
+        "old_price": 479.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "60572685",
+        "name": "FREDRIKSJON bath towel 70x140 grey-turquois",
+        "old_price": 449.0,
+        "new_price": 329.0
+    },
+    {
+        "barcode": "60572690",
+        "name": "FREDRIKSJON hand towel 40x70 grey-turquois",
+        "old_price": 139.0,
+        "new_price": 99.0
+    },
+    {
+        "barcode": "60574019",
+        "name": "POKAL glass 35 cl light purple",
+        "old_price": 84.99,
+        "new_price": 74.99
+    },
+    {
+        "barcode": "60574255",
+        "name": "TALLSVARMARE bdsprd 260x250 multicolour",
+        "old_price": 2199.0,
+        "new_price": 1799.0
+    },
+    {
+        "barcode": "60576259",
+        "name": "VAGSJON hand towel 40x70 bright blue",
+        "old_price": 89.99,
+        "new_price": 69.99
+    },
+    {
+        "barcode": "60579366",
+        "name": "BREDVECKLARE dc/pwc 150x200/50x60 white p",
+        "old_price": 979.0,
+        "new_price": 779.0
+    },
+    {
+        "barcode": "60579955",
+        "name": "ULLRANUNKEL pre-cut fabric 150x300 green",
+        "old_price": 899.0,
+        "new_price": 629.0
+    },
+    {
+        "barcode": "60583009",
+        "name": "NICKGRAS rug flatwoven 200x300 multi/handm",
+        "old_price": 18999.0,
+        "new_price": 17499.0
+    },
+    {
+        "barcode": "60583033",
+        "name": "PYSSLINGGRAS rugflatwoven 240x300 grey/ch",
+        "old_price": 18999.0,
+        "new_price": 17499.0
+    },
+    {
+        "barcode": "60590854",
+        "name": "GRILLTIDER brbk ýzg tem fýrc 42 ps clk/kyn 250",
+        "old_price": 349.0,
+        "new_price": 249.0
+    },
+    {
+        "barcode": "60592278",
+        "name": "GRONKNAVEL krlnt klf 50x50 sy by/dþ mkn ic m",
+        "old_price": 219.0,
+        "new_price": 169.0
+    },
+    {
+        "barcode": "60593027",
+        "name": "SOLVINDEN NNN LED dkrtf ms aydnltm 15 dþ",
+        "old_price": 169.0,
+        "new_price": 139.0
+    },
+    {
+        "barcode": "60593051",
+        "name": "SOLVINDEN N4 LED gnþ enrj srkt lmb 22 dþ m",
+        "old_price": 449.0,
+        "new_price": 379.0
+    },
+    {
+        "barcode": "60593701",
+        "name": "SOLVINDEN N2 LED gnþ enrj ayd dþ mkn/yarý",
+        "old_price": 729.0,
+        "new_price": 529.0
+    },
+    {
+        "barcode": "60594121",
+        "name": "FOSSTA 2025 sauce dish, set of 2 pink/petals",
+        "old_price": 189.0,
+        "new_price": 139.0
+    },
+    {
+        "barcode": "60595696",
+        "name": "FRIDANS stor karartma prd 100x195 by sr/cizgil",
+        "old_price": 1299.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "60598077",
+        "name": "KORFALTSPIL door mat 40x60 blue green/circle",
+        "old_price": 84.99,
+        "new_price": 69.99
+    },
+    {
+        "barcode": "60598082",
+        "name": "KORFALTSPIL door mat 40x60 pink orange/circ",
+        "old_price": 84.99,
+        "new_price": 69.99
+    },
+    {
+        "barcode": "70245339",
+        "name": "BESTA BURS desk 120x40 high-gloss white",
+        "old_price": 9999.0,
+        "new_price": 8999.0
+    },
+    {
+        "barcode": "70255899",
+        "name": "SORTERA N waste srt bin/lid 60 l white",
+        "old_price": 899.0,
+        "new_price": 699.0
+    },
+    {
+        "barcode": "70256993",
+        "name": "VARDAGEN muffin tin 38x29 silver colour",
+        "old_price": 799.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "70291487",
+        "name": "KALKGRUND shower shelf 24x6 chrome-plated",
+        "old_price": 449.0,
+        "new_price": 329.0
+    },
+    {
+        "barcode": "70308685",
+        "name": "ODGER swivel chr white/beige",
+        "old_price": 5499.0,
+        "new_price": 4499.0
+    },
+    {
+        "barcode": "70340807",
+        "name": "EKEDALEN ext tbl 120/180x80 white",
+        "old_price": 11499.0,
+        "new_price": 10499.0
+    },
+    {
+        "barcode": "70342608",
+        "name": "VOXNAN thermo bath/shwr mix 150 mm chrom",
+        "old_price": 9699.0,
+        "new_price": 8299.0
+    },
+    {
+        "barcode": "70359142",
+        "name": "IKEA 365+ food cntnr 450 ml round/plastic",
+        "old_price": 44.99,
+        "new_price": 34.99
+    },
+    {
+        "barcode": "70368641",
+        "name": "IKEA 365+ gasket square/mixed colours 4-p",
+        "old_price": 49.99,
+        "new_price": 34.99
+    },
+    {
+        "barcode": "70382086",
+        "name": "IKEA 365+ lid square/silicone",
+        "old_price": 140.0,
+        "new_price": 110.0
+    },
+    {
+        "barcode": "70399261",
+        "name": "MYLLRA ckmcli alt dðþtrme msasý acýk turkua",
+        "old_price": 11999.0,
+        "new_price": 10999.0
+    },
+    {
+        "barcode": "70457005",
+        "name": "SMASPORRE hff sck ttn yrgn 150x200",
+        "old_price": 779.0,
+        "new_price": 579.0
+    },
+    {
+        "barcode": "70458528",
+        "name": "FJALLBRACKA duvet warm 150x200",
+        "old_price": 3699.0,
+        "new_price": 2699.0
+    },
+    {
+        "barcode": "70485447",
+        "name": "FARGKLAR plate 26 glossy brown 4-p",
+        "old_price": 599.0,
+        "new_price": 429.0
+    },
+    {
+        "barcode": "70490199",
+        "name": "SANELA N krlnt klf 50x50 pembe",
+        "old_price": 379.0,
+        "new_price": 299.0
+    },
+    {
+        "barcode": "70494710",
+        "name": "TANNISBY rug flatwoven 160x230 handmade/g",
+        "old_price": 8999.0,
+        "new_price": 7999.0
+    },
+    {
+        "barcode": "70496728",
+        "name": "FREDRIKSJON wshclth 30x30 white",
+        "old_price": 42.99,
+        "new_price": 29.99
+    },
+    {
+        "barcode": "70499878",
+        "name": "PILBLIXT tbl lmp41wh/lght green gls/gld eff me",
+        "old_price": 3399.0,
+        "new_price": 2399.0
+    },
+    {
+        "barcode": "70503837",
+        "name": "KNOPARE hook green",
+        "old_price": 32.99,
+        "new_price": 24.99
+    },
+    {
+        "barcode": "70507883",
+        "name": "VAMDRUP rug flatwoven 170x240 handmade/m",
+        "old_price": 10999.0,
+        "new_price": 9999.0
+    },
+    {
+        "barcode": "70508401",
+        "name": "KAITUM N mirror w integr lghtng 20 battery-op",
+        "old_price": 2399.0,
+        "new_price": 1799.0
+    },
+    {
+        "barcode": "70511451",
+        "name": "ENTUSIASM bowl 12 patterned/green 4-p",
+        "old_price": 799.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "70512648",
+        "name": "TOLKNING hang basket jute",
+        "old_price": 679.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "70513054",
+        "name": "ANLEDNING carafe 1 l light brown",
+        "old_price": 549.0,
+        "new_price": 449.0
+    },
+    {
+        "barcode": "70513657",
+        "name": "SOLVINDEN NNN LED solar pndnt lmp 45outdr",
+        "old_price": 579.0,
+        "new_price": 429.0
+    },
+    {
+        "barcode": "70515468",
+        "name": "GRASALA chr grey",
+        "old_price": 2299.0,
+        "new_price": 1799.0
+    },
+    {
+        "barcode": "70518061",
+        "name": "NACKANAS chr acacia",
+        "old_price": 2799.0,
+        "new_price": 2299.0
+    },
+    {
+        "barcode": "70526382",
+        "name": "DROMSLOTT quilt blank 105 puppy dot/yel whi",
+        "old_price": 649.0,
+        "new_price": 549.0
+    },
+    {
+        "barcode": "70528885",
+        "name": "VONSBAK rug low pile 170x230 dark blue",
+        "old_price": 3799.0,
+        "new_price": 2799.0
+    },
+    {
+        "barcode": "70528890",
+        "name": "VONSBAK rug low pile 133x195 dark blue",
+        "old_price": 2799.0,
+        "new_price": 1999.0
+    },
+    {
+        "barcode": "70532953",
+        "name": "HATTEFJALL office chr w armr Gunnared lgrn/w",
+        "old_price": 14499.0,
+        "new_price": 13499.0
+    },
+    {
+        "barcode": "70536710",
+        "name": "VALJARE cabinet w door 35x35x35 pine/woven",
+        "old_price": 1699.0,
+        "new_price": 1299.0
+    },
+    {
+        "barcode": "70543292",
+        "name": "VATTENVAN krlnt klf 50x50 pembe/cizgili",
+        "old_price": 479.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "70551135",
+        "name": "VAXTHUS basket 50x27 poplar/handmade",
+        "old_price": 1199.0,
+        "new_price": 899.0
+    },
+    {
+        "barcode": "70554054",
+        "name": "AFTONSPARV rug 133 space rounded/blue",
+        "old_price": 1399.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "70556251",
+        "name": "SVEDJENAVA pre-cut fabric 150x300 multi dark",
+        "old_price": 549.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "70557359",
+        "name": "DAJLIEN relax-poncho S/M",
+        "old_price": 2499.0,
+        "new_price": 1999.0
+    },
+    {
+        "barcode": "70559674",
+        "name": "HÄLLEBRÄCKA sheer crtn 1 par 145x300 w head",
+        "old_price": 1499.0,
+        "new_price": 1199.0
+    },
+    {
+        "barcode": "70560371",
+        "name": "DJURTRANARE basket 32x19 beige/pink",
+        "old_price": 999.0,
+        "new_price": 799.0
+    },
+    {
+        "barcode": "70564265",
+        "name": "TRATTVIVA bdsprd 150x250 light grey-green",
+        "old_price": 849.0,
+        "new_price": 649.0
+    },
+    {
+        "barcode": "70565024",
+        "name": "ANGSLILJA dc/2pwc 240x220/50x60 orange RE",
+        "old_price": 1499.0,
+        "new_price": 1199.0
+    },
+    {
+        "barcode": "70567438",
+        "name": "HALLEBRACKA tul prd, 2 knt 145x300 a gr/ekst.",
+        "old_price": 1499.0,
+        "new_price": 1099.0
+    },
+    {
+        "barcode": "70569135",
+        "name": "STARREKLINTE rug flatwoven 155x220 natural/",
+        "old_price": 1499.0,
+        "new_price": 1299.0
+    },
+    {
+        "barcode": "70569606",
+        "name": "SOTRONN cushion cvr 50x50 black/white RECY",
+        "old_price": 179.0,
+        "new_price": 139.0
+    },
+    {
+        "barcode": "70569611",
+        "name": "SOTRONN throw 130x170 black/white",
+        "old_price": 599.0,
+        "new_price": 549.0
+    },
+    {
+        "barcode": "70571874",
+        "name": "SOLVINDEN LED tbl lamp 24 battery-operated/",
+        "old_price": 799.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "70571888",
+        "name": "SOLVINDEN LED tbl lamp 26 battery utdoor/co",
+        "old_price": 529.0,
+        "new_price": 399.0
+    },
+    {
+        "barcode": "70573081",
+        "name": "GANGPASSAGE mtfk mtý 45x120 gri/beyaz",
+        "old_price": 999.0,
+        "new_price": 699.0
+    },
+    {
+        "barcode": "70576254",
+        "name": "VAGSJON bath towel 70x140 bright blue",
+        "old_price": 319.0,
+        "new_price": 229.0
+    },
+    {
+        "barcode": "70577201",
+        "name": "AKERNEJLIKA cushion cvr 50x50 beige/flower",
+        "old_price": 699.0,
+        "new_price": 629.0
+    },
+    {
+        "barcode": "70577215",
+        "name": "ANGSLILJA dc/2pwc 240x220/50x60 light green",
+        "old_price": 1499.0,
+        "new_price": 1199.0
+    },
+    {
+        "barcode": "70578998",
+        "name": "SLANHOSTMAL dc/2pwc 240x220/50x60 blue/w",
+        "old_price": 1999.0,
+        "new_price": 1399.0
+    },
+    {
+        "barcode": "70579846",
+        "name": "HANGPELARGON pre-cut fabric 150x300 white/",
+        "old_price": 799.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "70581849",
+        "name": "SNOPLOG basket s3 bamboo",
+        "old_price": 879.0,
+        "new_price": 729.0
+    },
+    {
+        "barcode": "70583018",
+        "name": "NICKGRAS rug flatwoven 170x240 multi/handm",
+        "old_price": 13999.0,
+        "new_price": 12499.0
+    },
+    {
+        "barcode": "70586620",
+        "name": "BRANNBOLL coaster 19 cork",
+        "old_price": 189.0,
+        "new_price": 179.0
+    },
+    {
+        "barcode": "70592584",
+        "name": "GOKVALLA 2025 tbk 26 beyaz",
+        "old_price": 299.0,
+        "new_price": 249.0
+    },
+    {
+        "barcode": "70593499",
+        "name": "SOLVINDEN N LED gnþ enrj srkt lmb 43 dþ mk",
+        "old_price": 579.0,
+        "new_price": 429.0
+    },
+    {
+        "barcode": "70593531",
+        "name": "SOLVINDEN N LED gnþ enrjl yer cbð dþ mkn/þ",
+        "old_price": 579.0,
+        "new_price": 429.0
+    },
+    {
+        "barcode": "70593692",
+        "name": "SOLVINDEN N2 LED yer lambasý 45 pilli dýþ m",
+        "old_price": 1099.0,
+        "new_price": 899.0
+    },
+    {
+        "barcode": "70593734",
+        "name": "LUFTFARTYG dz dkm halý, ic/dþ mkn 160x230 b",
+        "old_price": 2399.0,
+        "new_price": 1899.0
+    },
+    {
+        "barcode": "70594007",
+        "name": "SOLVINDEN ms lmb 12 pilli corek þekilli",
+        "old_price": 299.0,
+        "new_price": 229.0
+    },
+    {
+        "barcode": "70602093",
+        "name": "BOLMEN N step stool black",
+        "old_price": 319.0,
+        "new_price": 279.0
+    },
+    {
+        "barcode": "75305709",
+        "name": "RAST chest/3 drw 62x70 pine",
+        "old_price": 2799.0,
+        "new_price": 2599.0
+    },
+    {
+        "barcode": "80089461",
+        "name": "KRISTALLER 3 kollu avize 32 lame/cam",
+        "old_price": 4199.0,
+        "new_price": 2999.0
+    },
+    {
+        "barcode": "80225166",
+        "name": "IDOLF chr black",
+        "old_price": 3299.0,
+        "new_price": 2499.0
+    },
+    {
+        "barcode": "80239724",
+        "name": "STOCKHOLM cabinet w 2 drw 90x107 walnut ve",
+        "old_price": 19999.0,
+        "new_price": 17999.0
+    },
+    {
+        "barcode": "80262880",
+        "name": "EKERO ach Skiftebo orange",
+        "old_price": 8999.0,
+        "new_price": 7299.0
+    },
+    {
+        "barcode": "80298233",
+        "name": "TALGJE matt pad 140x200 white",
+        "old_price": 3599.0,
+        "new_price": 2799.0
+    },
+    {
+        "barcode": "80307223",
+        "name": "KLADDIG bib multicolour",
+        "old_price": 219.0,
+        "new_price": 169.0
+    },
+    {
+        "barcode": "80349534",
+        "name": "RICKARUM table lamp 47 silver-colour",
+        "old_price": 3699.0,
+        "new_price": 2699.0
+    },
+    {
+        "barcode": "80350990",
+        "name": "VAGSJON msfr hvlsu 30x50 beyaz 2adet",
+        "old_price": 109.0,
+        "new_price": 79.99
+    },
+    {
+        "barcode": "80359212",
+        "name": "TORNVIKEN wll shlf 50 grey",
+        "old_price": 1899.0,
+        "new_price": 1399.0
+    },
+    {
+        "barcode": "80392315",
+        "name": "GO mirror cab w 2 drs 60x14x96 Kasjon light gr",
+        "old_price": 8699.0,
+        "new_price": 6999.0
+    },
+    {
+        "barcode": "80395489",
+        "name": "TJENA N desk org 18x17 black",
+        "old_price": 299.0,
+        "new_price": 249.0
+    },
+    {
+        "barcode": "80421389",
+        "name": "MOJLIGHET bed pckt 75x27 blue",
+        "old_price": 349.0,
+        "new_price": 249.0
+    },
+    {
+        "barcode": "80435305",
+        "name": "LETTAN mirror 60x96",
+        "old_price": 1699.0,
+        "new_price": 1299.0
+    },
+    {
+        "barcode": "80435310",
+        "name": "LETTAN mirror 80x96",
+        "old_price": 1899.0,
+        "new_price": 1499.0
+    },
+    {
+        "barcode": "80435942",
+        "name": "FULLANDAD kitchen ut s5 grey",
+        "old_price": 339.0,
+        "new_price": 239.0
+    },
+    {
+        "barcode": "80448831",
+        "name": "HULTARP hook 11 black 2-p",
+        "old_price": 119.0,
+        "new_price": 89.99
+    },
+    {
+        "barcode": "80456213",
+        "name": "STRIMMIG serving plate 29 stoneware grey",
+        "old_price": 479.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "80458735",
+        "name": "FJALLBRACKA duvet extra warm 240x220",
+        "old_price": 7999.0,
+        "new_price": 6499.0
+    },
+    {
+        "barcode": "80458839",
+        "name": "IDANAS open ward 59x211 dark brown stained",
+        "old_price": 9999.0,
+        "new_price": 8999.0
+    },
+    {
+        "barcode": "80467297",
+        "name": "NEREBY hang org f acc natural",
+        "old_price": 439.0,
+        "new_price": 329.0
+    },
+    {
+        "barcode": "80472492",
+        "name": "MULLFJALLET conf chair w castors Naggen dar",
+        "old_price": 8999.0,
+        "new_price": 7999.0
+    },
+    {
+        "barcode": "80473335",
+        "name": "SALLSKAPLIG bowl 15 clear glass/patterned",
+        "old_price": 119.0,
+        "new_price": 89.99
+    },
+    {
+        "barcode": "80474392",
+        "name": "BLADDRARE box w lid 25x35x15 grey/patterne",
+        "old_price": 529.0,
+        "new_price": 399.0
+    },
+    {
+        "barcode": "80474617",
+        "name": "TJOG stor box w lid 35x56x30 dark beige",
+        "old_price": 829.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "80477201",
+        "name": "GODMIDDAG serving plate 32x18 white",
+        "old_price": 259.0,
+        "new_price": 189.0
+    },
+    {
+        "barcode": "80477668",
+        "name": "TJOG stor box w lid 35x56x30 dark grey",
+        "old_price": 829.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "80483075",
+        "name": "OMAR shlvng ut w 3 bskts 92x36x94 galvanise",
+        "old_price": 3999.0,
+        "new_price": 3299.0
+    },
+    {
+        "barcode": "80489567",
+        "name": "POANG csh ftst Skiftebo yellow",
+        "old_price": 1399.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "80491061",
+        "name": "MOALINA crtns 1pr 145x300 light blue",
+        "old_price": 1799.0,
+        "new_price": 1299.0
+    },
+    {
+        "barcode": "80496681",
+        "name": "FREDRIKSJON wshclth 30x30 dark blue",
+        "old_price": 42.99,
+        "new_price": 29.99
+    },
+    {
+        "barcode": "80498802",
+        "name": "MJUKPLISTER bdsprd 260x250 dark grey",
+        "old_price": 2899.0,
+        "new_price": 2299.0
+    },
+    {
+        "barcode": "80508735",
+        "name": "STAGGSTARR chr pad 36x36x2.5 black",
+        "old_price": 299.0,
+        "new_price": 239.0
+    },
+    {
+        "barcode": "80512469",
+        "name": "TIGERFINK stor w comp turquoise",
+        "old_price": 1099.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "80513001",
+        "name": "BURVIK side tbl 38 light grey-green",
+        "old_price": 1799.0,
+        "new_price": 1399.0
+    },
+    {
+        "barcode": "80513930",
+        "name": "JATTEPOPPEL krlnt klf 50x50 koyu gri/beyaz",
+        "old_price": 169.0,
+        "new_price": 129.0
+    },
+    {
+        "barcode": "80513949",
+        "name": "SOLVINDEN LED solar  pdt lmp30outdr globe/r",
+        "old_price": 529.0,
+        "new_price": 399.0
+    },
+    {
+        "barcode": "80514642",
+        "name": "SOLVINDEN LED solar-pwrd grnd stck outdr/cl",
+        "old_price": 579.0,
+        "new_price": 429.0
+    },
+    {
+        "barcode": "80514897",
+        "name": "HAVBERG fst Lejde red-brown",
+        "old_price": 8999.0,
+        "new_price": 7999.0
+    },
+    {
+        "barcode": "80515585",
+        "name": "OBONAS container w suction cup grey-green",
+        "old_price": 209.0,
+        "new_price": 149.0
+    },
+    {
+        "barcode": "80517037",
+        "name": "DYTAG krlnt klf 50x50 siyah",
+        "old_price": 529.0,
+        "new_price": 379.0
+    },
+    {
+        "barcode": "80520332",
+        "name": "AKERFIBBLA dc/2pwc 240x220/50x60 white bla",
+        "old_price": 2899.0,
+        "new_price": 2299.0
+    },
+    {
+        "barcode": "80522623",
+        "name": "BERGPALM dc/2pwc 240x220/50x60 blue/strip",
+        "old_price": 1599.0,
+        "new_price": 1299.0
+    },
+    {
+        "barcode": "80522878",
+        "name": "NASSELKLOCKA dc/pwc 150x200/50x60 dblue/",
+        "old_price": 1199.0,
+        "new_price": 899.0
+    },
+    {
+        "barcode": "80527593",
+        "name": "LILLHULT N USB-A to USB-micro 1.5 m dark gre",
+        "old_price": 169.0,
+        "new_price": 129.0
+    },
+    {
+        "barcode": "80528366",
+        "name": "BLAVINGAD rug 133x133 ocean animals/multi",
+        "old_price": 1899.0,
+        "new_price": 1499.0
+    },
+    {
+        "barcode": "80528470",
+        "name": "TONSTAD side tbl 64x40 oak veneer",
+        "old_price": 6499.0,
+        "new_price": 5999.0
+    },
+    {
+        "barcode": "80533551",
+        "name": "PEPPRIG dust pan/brush yellow",
+        "old_price": 129.0,
+        "new_price": 99.0
+    },
+    {
+        "barcode": "80534070",
+        "name": "BLAVINGAD backpack 13 l blue/green",
+        "old_price": 599.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "80541278",
+        "name": "VATTENKAR wall stor 8x38x32 green/wood",
+        "old_price": 729.0,
+        "new_price": 529.0
+    },
+    {
+        "barcode": "80542027",
+        "name": "GOKVALLA sheer crtn 1 pair 145x300 printed",
+        "old_price": 849.0,
+        "new_price": 749.0
+    },
+    {
+        "barcode": "80546068",
+        "name": "PALYCKE clip-on bskt f cab dr",
+        "old_price": 199.0,
+        "new_price": 179.0
+    },
+    {
+        "barcode": "80547464",
+        "name": "TRADFRI N2 E14 806lm dimmable globe opalw",
+        "old_price": 899.0,
+        "new_price": 699.0
+    },
+    {
+        "barcode": "80547548",
+        "name": "TRADFRI N3 starter kit GU10 smart/wrlss dim W",
+        "old_price": 1999.0,
+        "new_price": 1399.0
+    },
+    {
+        "barcode": "80550017",
+        "name": "OMSESIDIG plate 31 black 2-p",
+        "old_price": 1099.0,
+        "new_price": 899.0
+    },
+    {
+        "barcode": "80551074",
+        "name": "LERFLUNDRA food protector green",
+        "old_price": 299.0,
+        "new_price": 249.0
+    },
+    {
+        "barcode": "80551106",
+        "name": "KLASSRUM rug flatwoven 133x195 white/black",
+        "old_price": 2799.0,
+        "new_price": 1999.0
+    },
+    {
+        "barcode": "80552691",
+        "name": "RYET LED bulb G9 250lm clear",
+        "old_price": 89.99,
+        "new_price": 69.99
+    },
+    {
+        "barcode": "80552752",
+        "name": "FREDRIKSJON bth sheet 100x150 deep red",
+        "old_price": 699.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "80554063",
+        "name": "AFTONSPARV desk pad 38x60 space/blue",
+        "old_price": 399.0,
+        "new_price": 299.0
+    },
+    {
+        "barcode": "80555557",
+        "name": "KYRRE N stool bright blue",
+        "old_price": 1299.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "80557170",
+        "name": "ALMTJARN NN bath mat 60x120 blue",
+        "old_price": 1299.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "80557288",
+        "name": "DAJLIEN carrier bag 50x36x39 cm/40 l white",
+        "old_price": 309.0,
+        "new_price": 219.0
+    },
+    {
+        "barcode": "80559273",
+        "name": "SUMPCYPRESS bowl w lid s2",
+        "old_price": 729.0,
+        "new_price": 529.0
+    },
+    {
+        "barcode": "80559452",
+        "name": "SANDSKADDA serv bowl 34 light grey-beige",
+        "old_price": 649.0,
+        "new_price": 479.0
+    },
+    {
+        "barcode": "80560083",
+        "name": "BACKORING cutlery s24 stainless steel",
+        "old_price": 2499.0,
+        "new_price": 1799.0
+    },
+    {
+        "barcode": "80560304",
+        "name": "UPPLAGA cup/saucer 23 cl white 4-p",
+        "old_price": 999.0,
+        "new_price": 799.0
+    },
+    {
+        "barcode": "80561025",
+        "name": "VIDEVECKMAL dish sponge w dispenser s3 bye",
+        "old_price": 129.0,
+        "new_price": 99.0
+    },
+    {
+        "barcode": "80562421",
+        "name": "AFTONSPARV ymþk oynck Dunya/cok renkli",
+        "old_price": 349.0,
+        "new_price": 299.0
+    },
+    {
+        "barcode": "80564533",
+        "name": "BULLERSKYDD rug 70x90 beige/brown",
+        "old_price": 749.0,
+        "new_price": 549.0
+    },
+    {
+        "barcode": "80567796",
+        "name": "GENESON chr metal/blue",
+        "old_price": 1599.0,
+        "new_price": 1299.0
+    },
+    {
+        "barcode": "80569743",
+        "name": "MAJGULL room dark crtns 1 pr 145x300 pink",
+        "old_price": 1999.0,
+        "new_price": 1399.0
+    },
+    {
+        "barcode": "80571091",
+        "name": "VAGSJON hand towel 40x70 bright pink",
+        "old_price": 79.99,
+        "new_price": 59.99
+    },
+    {
+        "barcode": "80571473",
+        "name": "UPPHETTA coffee/tea maker 1 l gls/stnls dgrey-",
+        "old_price": 649.0,
+        "new_price": 549.0
+    },
+    {
+        "barcode": "80573108",
+        "name": "FULLMAKT rug flatw in/out 200x300 beige/mel",
+        "old_price": 6499.0,
+        "new_price": 5799.0
+    },
+    {
+        "barcode": "80574966",
+        "name": "MAVINN 2024 bdsprd 160x250 striped multicol",
+        "old_price": 1499.0,
+        "new_price": 1099.0
+    },
+    {
+        "barcode": "80575051",
+        "name": "MAVINN 2024 bag handmade/striped natural",
+        "old_price": 1199.0,
+        "new_price": 839.0
+    },
+    {
+        "barcode": "80575701",
+        "name": "DVALA N fitt sheet 140x200 blue",
+        "old_price": 529.0,
+        "new_price": 479.0
+    },
+    {
+        "barcode": "80576263",
+        "name": "VAGSJON wshclth 30x30 bright blue 4-p",
+        "old_price": 139.0,
+        "new_price": 99.0
+    },
+    {
+        "barcode": "80579006",
+        "name": "SLANHOSTMAL dc/pwc 150x200/50x60 blue/wh",
+        "old_price": 1199.0,
+        "new_price": 899.0
+    },
+    {
+        "barcode": "80581863",
+        "name": "SNOPLOG basket w lid s2 poplar",
+        "old_price": 699.0,
+        "new_price": 529.0
+    },
+    {
+        "barcode": "80586238",
+        "name": "KUGGIS kpk 18x26 koyu gri-bej",
+        "old_price": 100.0,
+        "new_price": 70.0
+    },
+    {
+        "barcode": "80586530",
+        "name": "BRANNBOLL gaming rug 195 black",
+        "old_price": 3299.0,
+        "new_price": 2699.0
+    },
+    {
+        "barcode": "80593540",
+        "name": "SOLVINDEN LED gnþ enrj ms lmb 28 fener/bey",
+        "old_price": 1699.0,
+        "new_price": 1299.0
+    },
+    {
+        "barcode": "80593639",
+        "name": "SOLVINDEN LED gnþ enrj yr lmb 42 mavi/cizgili",
+        "old_price": 1799.0,
+        "new_price": 1399.0
+    },
+    {
+        "barcode": "80594120",
+        "name": "FOSSTA 2025 plate 27 light green/petals",
+        "old_price": 349.0,
+        "new_price": 249.0
+    },
+    {
+        "barcode": "80594257",
+        "name": "FOSSTA 2025 LED lghtng chain 24 candied haw",
+        "old_price": 649.0,
+        "new_price": 499.0
+    },
+    {
+        "barcode": "80595544",
+        "name": "VITTSJO shelving unit 51x175 yellow/glass",
+        "old_price": 5499.0,
+        "new_price": 4499.0
+    },
+    {
+        "barcode": "80595695",
+        "name": "FRIDANS stor karartma prd 80x195 by sr/cizgili",
+        "old_price": 1099.0,
+        "new_price": 899.0
+    },
+    {
+        "barcode": "80597326",
+        "name": "PILLERSTARR paper napkin 38x38 patterned/bl",
+        "old_price": 99.0,
+        "new_price": 79.99
+    },
+    {
+        "barcode": "80605798",
+        "name": "PORTLAKMALLA dc/2pwc 240x220/50x60 green",
+        "old_price": 1599.0,
+        "new_price": 1299.0
+    },
+    {
+        "barcode": "90146456",
+        "name": "INGOLF junior chair white",
+        "old_price": 3199.0,
+        "new_price": 2299.0
+    },
+    {
+        "barcode": "90269051",
+        "name": "VINTERBRO door 50x229 white",
+        "old_price": 5900.0,
+        "new_price": 4600.0
+    },
+    {
+        "barcode": "90282948",
+        "name": "IKEA 365+ serv plate 19x10 white",
+        "old_price": 109.0,
+        "new_price": 99.0
+    },
+    {
+        "barcode": "90295663",
+        "name": "FISKBO frame 13x18 white",
+        "old_price": 89.99,
+        "new_price": 74.99
+    },
+    {
+        "barcode": "90342546",
+        "name": "BROGRUND head/hndshwr kit w dvrtr chrome-",
+        "old_price": 9999.0,
+        "new_price": 8299.0
+    },
+    {
+        "barcode": "90347515",
+        "name": "ENERYDA cup handle 89 mm brass-colour 2-p",
+        "old_price": 199.0,
+        "new_price": 139.0
+    },
+    {
+        "barcode": "90350937",
+        "name": "TEODORES chr white",
+        "old_price": 1999.0,
+        "new_price": 1599.0
+    },
+    {
+        "barcode": "90390735",
+        "name": "HILJA 2 knt prd 145x300 gri/ekstrafor bantlý",
+        "old_price": 849.0,
+        "new_price": 729.0
+    },
+    {
+        "barcode": "90400517",
+        "name": "EKEDALEN bar masasý 120x80x105 koyu kahve",
+        "old_price": 11499.0,
+        "new_price": 10499.0
+    },
+    {
+        "barcode": "90408797",
+        "name": "TRADFRI N LED amp E27 806 lmn akllý kblsz rst",
+        "old_price": 479.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "90417198",
+        "name": "SPISIG play ktchn w crtns 55x37x98",
+        "old_price": 4199.0,
+        "new_price": 2999.0
+    },
+    {
+        "barcode": "90445592",
+        "name": "FORNYANDE drinking straw paper/white 100-p",
+        "old_price": 169.0,
+        "new_price": 119.0
+    },
+    {
+        "barcode": "90449905",
+        "name": "LACK NN cff tbl 90x55 white",
+        "old_price": 1299.0,
+        "new_price": 1099.0
+    },
+    {
+        "barcode": "90452304",
+        "name": "MILSBO gls-dr cb 101x100 anthracite",
+        "old_price": 16999.0,
+        "new_price": 15999.0
+    },
+    {
+        "barcode": "90456849",
+        "name": "FJALLBRACKA duvet light warm 240x220",
+        "old_price": 4199.0,
+        "new_price": 2999.0
+    },
+    {
+        "barcode": "90458589",
+        "name": "SMASPORRE all seasons duvet 150x200",
+        "old_price": 1799.0,
+        "new_price": 1299.0
+    },
+    {
+        "barcode": "90460568",
+        "name": "VILDKORN pillow high 50x60",
+        "old_price": 249.0,
+        "new_price": 209.0
+    },
+    {
+        "barcode": "90460587",
+        "name": "VILDKORN Ýnc dlgl ystk 50x60",
+        "old_price": 219.0,
+        "new_price": 189.0
+    },
+    {
+        "barcode": "90474396",
+        "name": "BLADDRARE box w lid 35x50x15 grey/patterne",
+        "old_price": 799.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "90474400",
+        "name": "BLADDRARE box w lid 35x50x30 grey/patterne",
+        "old_price": 929.0,
+        "new_price": 799.0
+    },
+    {
+        "barcode": "90477658",
+        "name": "TJOG magaz file dark grey 2-p",
+        "old_price": 349.0,
+        "new_price": 249.0
+    },
+    {
+        "barcode": "90479718",
+        "name": "GODMIDDAG serv bowl 30 white",
+        "old_price": 399.0,
+        "new_price": 279.0
+    },
+    {
+        "barcode": "90483174",
+        "name": "VARVIAL fitt sheet f day-bd 80x200 light grey",
+        "old_price": 529.0,
+        "new_price": 379.0
+    },
+    {
+        "barcode": "90484036",
+        "name": "HILDEGUN tmzlk bzi 25x25 kýrmýzý",
+        "old_price": 19.99,
+        "new_price": 14.99
+    },
+    {
+        "barcode": "90491838",
+        "name": "HIMLEAN bth sheet 100x150 turquoise/melang",
+        "old_price": 579.0,
+        "new_price": 429.0
+    },
+    {
+        "barcode": "90492574",
+        "name": "VOLLERSLEV rug high pile 133x195 dark blue",
+        "old_price": 4299.0,
+        "new_price": 3299.0
+    },
+    {
+        "barcode": "90496261",
+        "name": "KALKNAS cb w sliding drs 121x43x98 white",
+        "old_price": 6499.0,
+        "new_price": 5499.0
+    },
+    {
+        "barcode": "90499896",
+        "name": "AVSKILDRA rug flatwoven 170x240 handmade",
+        "old_price": 12999.0,
+        "new_price": 9299.0
+    },
+    {
+        "barcode": "90503186",
+        "name": "SALUDING basket 30 handmade bamboo",
+        "old_price": 529.0,
+        "new_price": 379.0
+    },
+    {
+        "barcode": "90504746",
+        "name": "VANKRETS blanket 130x170 light grey",
+        "old_price": 699.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "90508527",
+        "name": "LOMMARP cb w glss drs 86x199 black",
+        "old_price": 21999.0,
+        "new_price": 19999.0
+    },
+    {
+        "barcode": "90511233",
+        "name": "RONNINGE bar stool 75 birch",
+        "old_price": 5399.0,
+        "new_price": 3999.0
+    },
+    {
+        "barcode": "90514651",
+        "name": "SANDSBERG bar stool 63 black/brown stained",
+        "old_price": 2099.0,
+        "new_price": 1499.0
+    },
+    {
+        "barcode": "90515108",
+        "name": "HAVBERG swiv ach Grann/Bomstad black",
+        "old_price": 21999.0,
+        "new_price": 19999.0
+    },
+    {
+        "barcode": "90517414",
+        "name": "VAPPEBY bluetooth speaker peanut shape/gre",
+        "old_price": 3499.0,
+        "new_price": 2499.0
+    },
+    {
+        "barcode": "90524674",
+        "name": "BROGRUND N glass shelf 67x11",
+        "old_price": 879.0,
+        "new_price": 649.0
+    },
+    {
+        "barcode": "90526499",
+        "name": "BLAVINGAD submarine playset, 11 pieces multi",
+        "old_price": 779.0,
+        "new_price": 699.0
+    },
+    {
+        "barcode": "90528375",
+        "name": "BLAVINGAD krlnt klf 50x50 ahtapot deseni/pem",
+        "old_price": 299.0,
+        "new_price": 229.0
+    },
+    {
+        "barcode": "90528441",
+        "name": "BLAVINGAD towel w hood 70x140 shark-shape",
+        "old_price": 799.0,
+        "new_price": 599.0
+    },
+    {
+        "barcode": "90535804",
+        "name": "BROBOCK ach rattan",
+        "old_price": 7399.0,
+        "new_price": 6299.0
+    },
+    {
+        "barcode": "90538459",
+        "name": "FONSTERBLAD blck-out rllr blnd 100x155 grey",
+        "old_price": 999.0,
+        "new_price": 699.0
+    },
+    {
+        "barcode": "90539072",
+        "name": "TRADFRI LED amp E27 470 lmn akll kbls rsta DE",
+        "old_price": 629.0,
+        "new_price": 479.0
+    },
+    {
+        "barcode": "90539576",
+        "name": "FJALLBO stor table 68x68x48 black",
+        "old_price": 10999.0,
+        "new_price": 8999.0
+    },
+    {
+        "barcode": "90543210",
+        "name": "PLOGFARA stor box w lid 22x16x8 light beige",
+        "old_price": 429.0,
+        "new_price": 329.0
+    },
+    {
+        "barcode": "90549759",
+        "name": "FLOTTILJ desk lamp dark blue",
+        "old_price": 529.0,
+        "new_price": 399.0
+    },
+    {
+        "barcode": "90552761",
+        "name": "FREDRIKSJON wshclth 30x30 deep red",
+        "old_price": 42.99,
+        "new_price": 29.99
+    },
+    {
+        "barcode": "90555284",
+        "name": "POSTKONTOR door mat in 40x60 green",
+        "old_price": 749.0,
+        "new_price": 569.0
+    },
+    {
+        "barcode": "90556108",
+        "name": "GLANSHAGTORN curtain 1 pc 300x300 green w",
+        "old_price": 1299.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "90557099",
+        "name": "LOVBACKEN side tbl 77x39 blue",
+        "old_price": 2999.0,
+        "new_price": 2799.0
+    },
+    {
+        "barcode": "90558112",
+        "name": "ULLVIDE fl sht 240x260 deep red",
+        "old_price": 949.0,
+        "new_price": 729.0
+    },
+    {
+        "barcode": "90558287",
+        "name": "BRUNKRISSLA dc/2pwc 240x220/50x60 pink",
+        "old_price": 1399.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "90560313",
+        "name": "RASTPLATS rug flatwoven 170x240 handmade",
+        "old_price": 14999.0,
+        "new_price": 12799.0
+    },
+    {
+        "barcode": "90561826",
+        "name": "DAJLIEN exercise s4",
+        "old_price": 2099.0,
+        "new_price": 1499.0
+    },
+    {
+        "barcode": "90564518",
+        "name": "TOFTLUND rug 55x85 beige",
+        "old_price": 449.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "90564721",
+        "name": "GRILLTIDER BBQ tools s3 stainless steel 2402",
+        "old_price": 499.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "90567654",
+        "name": "DAJLIEN training weight 3 kg ring shaped/lgrn",
+        "old_price": 1199.0,
+        "new_price": 999.0
+    },
+    {
+        "barcode": "90568516",
+        "name": "KUGGIS lid 37x54 black",
+        "old_price": 220.0,
+        "new_price": 169.0
+    },
+    {
+        "barcode": "90569002",
+        "name": "GOKVALLA 2024 serving tray 26x15x8 copper-c",
+        "old_price": 649.0,
+        "new_price": 479.0
+    },
+    {
+        "barcode": "90569262",
+        "name": "IDROTTSPLATS rug flatwoven 80x200 blue",
+        "old_price": 1999.0,
+        "new_price": 1399.0
+    },
+    {
+        "barcode": "90571217",
+        "name": "FJALLSTARR bath towel 70x140 white/grey",
+        "old_price": 449.0,
+        "new_price": 329.0
+    },
+    {
+        "barcode": "90575036",
+        "name": "MAVINN 2024 stor basket striped multicolour",
+        "old_price": 1499.0,
+        "new_price": 1199.0
+    },
+    {
+        "barcode": "90579850",
+        "name": "SMAFINGERORT pre-cut fabric 150x300 green",
+        "old_price": 999.0,
+        "new_price": 699.0
+    },
+    {
+        "barcode": "90582602",
+        "name": "LINJEPLATS rug low pile 160x230 beige/off-whi",
+        "old_price": 6499.0,
+        "new_price": 5799.0
+    },
+    {
+        "barcode": "90587100",
+        "name": "TJARLEK Amrkn srvs 35x45 cok renkli",
+        "old_price": 109.0,
+        "new_price": 79.99
+    },
+    {
+        "barcode": "90587685",
+        "name": "SITTBRUNN USB-A to USB-C 2 m white",
+        "old_price": 169.0,
+        "new_price": 129.0
+    },
+    {
+        "barcode": "90587770",
+        "name": "MAVINN basket 37x35x35 jute/braided",
+        "old_price": 1199.0,
+        "new_price": 899.0
+    },
+    {
+        "barcode": "90590895",
+        "name": "GRILLTIDER kupa 33 cl paslanmaz celik 2adet 2",
+        "old_price": 339.0,
+        "new_price": 249.0
+    },
+    {
+        "barcode": "90592639",
+        "name": "OLIVSPINNMAL ortu 120x160 kýrýk beyaz/cok r",
+        "old_price": 399.0,
+        "new_price": 299.0
+    },
+    {
+        "barcode": "90593035",
+        "name": "SOLVINDEN N4 LED gnþ enrj srkt lmb 45 dþ m",
+        "old_price": 579.0,
+        "new_price": 429.0
+    },
+    {
+        "barcode": "90593498",
+        "name": "SOLVINDEN N LED gnþ enrj srkt lmb 30 dþ mk",
+        "old_price": 529.0,
+        "new_price": 399.0
+    },
+    {
+        "barcode": "90593667",
+        "name": "SOLVINDEN N LED sarkýt lamba 37 dýþ mekan",
+        "old_price": 1599.0,
+        "new_price": 1299.0
+    },
+    {
+        "barcode": "90593945",
+        "name": "SOLVINDEN srkt lmb 22 cicek/guneþ enerjili tu",
+        "old_price": 449.0,
+        "new_price": 349.0
+    },
+    {
+        "barcode": "90593988",
+        "name": "SOLVINDEN ms lmb 18 guneþ enerjili/gri",
+        "old_price": 649.0,
+        "new_price": 569.0
+    },
+    {
+        "barcode": "90596538",
+        "name": "SKOGSDUVA box 25x17x8.5 patterned/multicol",
+        "old_price": 189.0,
+        "new_price": 139.0
+    },
+    {
+        "barcode": "90597335",
+        "name": "KALLSINNIG wine glass 32 cl plastic/blue",
+        "old_price": 84.99,
+        "new_price": 59.99
+    },
+    {
+        "barcode": "90605806",
+        "name": "PORTLAKMALLA dc/pwc 150x200/50x60 green/",
+        "old_price": 979.0,
+        "new_price": 779.0
+    },
+    {
+        "barcode": "90608150",
+        "name": "ALGORT pre-cut fbrc 150x300 forst patt/whi gr",
+        "old_price": 999.0,
+        "new_price": 699.0
+    }
+]
